@@ -33,6 +33,10 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
           CHROMA_AUTH_TOKEN: ${{ secrets.CHROMA_AUTH_TOKEN }}
+          CHROMA_HOST: ${{ secrets.CHROMA_HOST }}
+          CHROMA_PORT: ${{ secrets.CHROMA_PORT }}
+          CHROMA_SSL: "true"
+          CHROMA_MODE: "remote"
           PYTHONPATH: ${{ github.workspace }}
         run: python src/phase0_scheduler/daily_refresh.py
 
