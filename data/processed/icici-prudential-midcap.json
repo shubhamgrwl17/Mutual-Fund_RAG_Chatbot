@@ -1,0 +1,156 @@
+{
+  "fund_name": "ICICI Prudential Midcap Direct Plan-Growth",
+  "scheme_name": "ICICI Prudential Midcap Direct Plan Growth",
+  "fund_house": "ICICI Prudential Mutual Fund",
+  "fund_manager": "Mrinal Singh, Mittul Kalawadia",
+  "launch_date": "01-Jan-2013",
+  "category": "Equity",
+  "sub_category": "Mid Cap",
+  "plan_type": "Direct",
+  "scheme_type": "Growth",
+  "isin": "INF109K011N7",
+  "scheme_code": "120381",
+  "description": "This scheme aims to generate long term capital appreciation by investing in diversified midcap stocks portfolio. It will predominantly invest in companies with market capitalization falling between the lowest and the highest market capitalisation among the constituents of Nifty Midcap 100 Index.",
+  "nav": 371.42,
+  "nav_date": "30-Apr-2026",
+  "aum": 6568.76826134,
+  "expense_ratio": "1.0",
+  "exit_load": "Exit load of 1% if redeemed within 1 year.",
+  "min_sip_investment": 100,
+  "max_sip_investment": 200000,
+  "min_investment_amount": 5000,
+  "min_withdrawal": 0.01,
+  "benchmark_name": "NIFTY Midcap 150 Total Return Index",
+  "risk": "Moderately High",
+  "groww_rating": 4,
+  "sip_allowed": true,
+  "lumpsum_allowed": false,
+  "stamp_duty": "0.005% (from July 1st, 2020)",
+  "holdings_top10": [
+    {
+      "company_name": "Jindal Steel Ltd.",
+      "allocation_percent": 4.72176803,
+      "sector": "Metals & Mining"
+    },
+    {
+      "company_name": "Multi Commodity Exchange Of India Ltd.",
+      "allocation_percent": 4.51000991,
+      "sector": "Services"
+    },
+    {
+      "company_name": "APL Apollo Tubes Ltd.",
+      "allocation_percent": 4.20262199,
+      "sector": "Metals & Mining"
+    },
+    {
+      "company_name": "BSE Ltd.",
+      "allocation_percent": 4.13361058,
+      "sector": "Services"
+    },
+    {
+      "company_name": "Apar Industries Ltd.",
+      "allocation_percent": 3.96684415,
+      "sector": "Consumer Staples"
+    },
+    {
+      "company_name": "Muthoot Finance Ltd.",
+      "allocation_percent": 3.96650619,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Jindal Stainless Ltd.",
+      "allocation_percent": 3.36247209,
+      "sector": "Metals & Mining"
+    },
+    {
+      "company_name": "Bharti Hexacom Ltd.",
+      "allocation_percent": 3.1617069,
+      "sector": "Communication"
+    },
+    {
+      "company_name": "Vedanta Ltd.",
+      "allocation_percent": 3.11856792,
+      "sector": "Metals & Mining"
+    },
+    {
+      "company_name": "PB Fintech Ltd.",
+      "allocation_percent": 3.06172773,
+      "sector": "Services"
+    }
+  ],
+  "sector_allocation": [
+    {
+      "sector": "Metals & Mining",
+      "allocation_percent": 15.4054
+    },
+    {
+      "sector": "Services",
+      "allocation_percent": 11.7053
+    },
+    {
+      "sector": "Consumer Staples",
+      "allocation_percent": 3.9668
+    },
+    {
+      "sector": "Financial",
+      "allocation_percent": 3.9665
+    },
+    {
+      "sector": "Communication",
+      "allocation_percent": 3.1617
+    }
+  ],
+  "returns": {
+    "returns_1y": 25.35,
+    "returns_3y": 27.25,
+    "returns_5y": 21.79,
+    "returns_10y": null,
+    "returns_since_launch": 18.64
+  },
+  "category_returns": {
+    "category_avg_1y": 1.9589569430918827,
+    "category_avg_3y": 21.621655585469462,
+    "category_avg_5y": 21.52750809939988
+  },
+  "fund_manager_details": [
+    {
+      "name": "Sharmila D'Silva",
+      "start_date": "2022-06-30T18:30:00.000Z",
+      "qualification": "Ms. D'Silva is CA and BAF"
+    },
+    {
+      "name": "Lalit Kumar",
+      "start_date": "2022-08-07T18:30:00.000Z",
+      "qualification": "Mr. Kumar is a PGDM (IIM) and B.Tech in Electrical Engineering (IIT)."
+    }
+  ],
+  "exit_load_details": {
+    "exit_load_text": "Exit load of 1% if redeemed within 1 year.",
+    "exit_load_history": [
+      {
+        "note": "Exit load of 1% if redeemed within 1 year.",
+        "as_on_date": "2015-05-18T00:00:00"
+      },
+      {
+        "note": "Exit load of 1% if redeemed within 18 months",
+        "as_on_date": "2014-04-15T00:00:00"
+      },
+      {
+        "note": "Exit load of 1% if redeemed upto 1 year",
+        "as_on_date": "2013-01-01T00:00:00"
+      }
+    ]
+  },
+  "lock_in_period": {
+    "lock_in_years": null,
+    "lock_in_months": null,
+    "lock_in_days": null
+  },
+  "_metadata": {
+    "scheme_id": "icici-prudential-midcap",
+    "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
+    "scrape_timestamp": "2026-05-02T16:10:12.071204Z",
+    "data_source": "__NEXT_DATA__",
+    "extractor_version": "1.0.0"
+  }
+}

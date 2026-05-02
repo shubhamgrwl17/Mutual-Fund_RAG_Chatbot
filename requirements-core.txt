@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+fastapi
+uvicorn
+pydantic
+openai
+pinecone-client
+sentence-transformers
+rank_bm25
+python-dotenv
+chromadb
+tiktoken
