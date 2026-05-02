@@ -10,6 +10,8 @@ jobs:
   refresh-corpus:
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    permissions:
+      contents: write  # Mandatory for auto-committing data changes
 
     steps:
       - name: Checkout repository
