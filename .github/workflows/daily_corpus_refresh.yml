@@ -66,4 +66,4 @@ jobs:
           HF_TOKEN: ${{ secrets.HUGGINGFACE_API_KEY }}
         run: |
           # Sync to Hugging Face Space
-          git push --force https://shubhamgrwl17:$HF_TOKEN@huggingface.co/spaces/shubhamgrwl17/Mutual-Fund_RAG_Chatbot main
+          git push --force https://shub17:$HF_TOKEN@huggingface.co/spaces/shub17/Mutual-Fund_RAG_Chatbot main
