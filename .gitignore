@@ -27,9 +27,14 @@ wheels/
 .installed.cfg
 *.egg
 
-# Data & Databases
-# Keep processed data but ignore large vector DBs if local
-# data/vector_db/
+# Data artifacts
+data/vector_db/
+data/embeddings/
+data/raw/*.json
+!data/raw/keep
+*.sqlite3
+*.bin
+*.pkl
 
 # IDEs
 .vscode/
