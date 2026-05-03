@@ -119,29 +119,39 @@ def get_mf_data(next_data: dict) -> dict:
     """
     Navigate the __NEXT_DATA__ JSON to get the fund data object.
 
-    The fund data is located at:
+    The fund data is usually located at:
     __NEXT_DATA__ > props > pageProps > mfServerSideData
 
-    Args:
-        next_data: The full parsed __NEXT_DATA__ dict.
-
-    Returns:
-        The mfServerSideData dict containing all fund information.
-
-    Raises:
-        ScraperError: If the expected path doesn't exist.
+    If that path fails, we search for common alternative keys to ensure
+    resilience against frontend structural changes.
     """
     try:
-        mf_data = next_data["props"]["pageProps"]["mfServerSideData"]
+        page_props = next_data.get("props", {}).get("pageProps", {})
+        
+        # 1. Primary path (Standard Groww structure)
+        if "mfServerSideData" in page_props:
+            mf_data = page_props["mfServerSideData"]
+        # 2. Alternative path (observed in some Next.js updates)
+        elif "data" in page_props:
+            mf_data = page_props["data"]
+        # 3. Fallback: Check if the data itself is flattened into pageProps
+        elif "scheme_name" in page_props:
+            mf_data = page_props
+        else:
+            available_keys = list(page_props.keys())
+            raise ScraperError(
+                f"Could not find fund data in pageProps. Available keys: {available_keys}. "
+                f"Groww structure may have changed significantly."
+            )
+
     except (KeyError, TypeError) as e:
         raise ScraperError(
-            f"Unexpected __NEXT_DATA__ structure — could not find "
-            f"props.pageProps.mfServerSideData: {e}"
+            f"Unexpected __NEXT_DATA__ structure — could not access pageProps: {e}"
         )
 
     if not isinstance(mf_data, dict):
         raise ScraperError(
-            f"mfServerSideData is not a dict, got: {type(mf_data).__name__}"
+            f"Extracted data is not a dict, got: {type(mf_data).__name__}"
         )
 
     return mf_data
