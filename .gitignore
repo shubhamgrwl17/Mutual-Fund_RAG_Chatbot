@@ -39,3 +39,15 @@ wheels/
 # OS
 .DS_Store
 Thumbs.db
+
+# Logs
+backend.log
+*.log
+
+# Scratch
+scratch/
+
+# Node / Frontend
+**/node_modules/
+**/.next/
+**/out/
