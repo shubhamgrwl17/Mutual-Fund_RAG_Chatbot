@@ -27,10 +27,9 @@ wheels/
 .installed.cfg
 *.egg
 
-# Data & Databases (Keep structure, but ignore large/local files if needed)
-# For this project, we want to keep processed data but maybe ignore large vector DBs
+# Data & Databases
+# Keep processed data but ignore large vector DBs if local
 # data/vector_db/
-# data/raw/
 
 # IDEs
 .vscode/

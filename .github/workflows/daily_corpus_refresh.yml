@@ -2,22 +2,19 @@ name: Daily Corpus Refresh
 
 on:
   schedule:
-    # 03:30 UTC = 09:00 AM IST
+    # 03:30 UTC is 09:00 AM IST
     - cron: '30 3 * * *'
-  workflow_dispatch:  # Allow manual trigger from GitHub UI
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   refresh-corpus:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-    permissions:
-      contents: write  # Mandatory for auto-committing data changes
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # Fetch all history for diff detection
+          lfs: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,34 +25,45 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -r requirements.txt
 
-      - name: Run corpus refresh pipeline
+      - name: Run Refresh Pipeline
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
-          CHROMA_AUTH_TOKEN: ${{ secrets.CHROMA_AUTH_TOKEN }}
           CHROMA_HOST: ${{ secrets.CHROMA_HOST }}
-          CHROMA_PORT: ${{ secrets.CHROMA_PORT }}
-          CHROMA_SSL: "true"
-          CHROMA_MODE: "remote"
-          PYTHONPATH: ${{ github.workspace }}
+          CHROMA_AUTH_TOKEN: ${{ secrets.CHROMA_AUTH_TOKEN }}
+          CHROMA_MODE: remote
         run: python src/phase0_scheduler/daily_refresh.py
 
-      - name: Run Final Quality Gate
+      - name: Run Data Quality Gate
         run: python src/phase0_scheduler/validate_data.py
 
-      - name: Commit updated data
+      - name: Commit and Push changes
         if: success()
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add data/
           # Only commit if there are changes
-          git diff --cached --quiet || (git commit -m "chore: daily corpus refresh $(date -u +%Y-%m-%d)" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: daily corpus refresh $(date +%Y-%m-%d)" && git push)
 
       - name: Notify on failure
         if: failure()
         run: |
           echo "::error::Daily corpus refresh failed. Check logs for details."
-          # Future: add Slack webhook notification here
+
+  sync-to-hub:
+    needs: refresh-corpus
+    runs-on: ubuntu-latest
+    if: success()
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+      - name: Push to Hub
+        env:
+          HF_TOKEN: ${{ secrets.HUGGINGFACE_API_KEY }}
+        run: |
+          # Sync to Hugging Face Space
+          git push --force https://shubhamgrwl17:$HF_TOKEN@huggingface.co/spaces/shubhamgrwl17/Mutual-Fund_RAG_Chatbot main
