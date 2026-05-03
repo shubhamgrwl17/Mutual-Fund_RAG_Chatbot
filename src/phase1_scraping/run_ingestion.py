@@ -10,6 +10,7 @@ import logging
 import sys
 from datetime import datetime
 from pathlib import Path
+from time import sleep
 
 from src.phase1_scraping.config import (
     PROCESSED_DIR,
@@ -52,6 +53,7 @@ def run_ingestion():
     source_registry = {}
 
     for scheme_id, config in SOURCE_URLS.items():
+        sleep(2)  # Respectful delay to avoid anti-bot triggers
         url = config["url"]
         logger.info(f"\n--- Processing: {scheme_id} ---")
 
