@@ -50,17 +50,37 @@ class ChatResponse(BaseModel):
     metadata: dict
 
 # --- Initialize Generator ---
-generator = AnswerGenerator()
+generator = None
+
+def get_generator():
+    global generator
+    if generator is None:
+        try:
+            logger.info("Initializing AnswerGenerator...")
+            generator = AnswerGenerator()
+        except Exception as e:
+            logger.error(f"Failed to initialize AnswerGenerator: {e}")
+            raise e
+    return generator
 
 @app.get("/api/health")
 async def health_check():
-    return {"status": "healthy", "service": "mutual-fund-rag-api"}
+    gen_status = "uninitialized"
+    if generator:
+        gen_status = "ready"
+    return {
+        "status": "healthy", 
+        "generator_status": gen_status,
+        "service": "mutual-fund-rag-api"
+    }
 
 @app.post("/api/chat", response_model=ChatResponse)
 async def chat_endpoint(request: ChatRequest):
     try:
         logger.info(f"Processing query: {request.query}")
-        result = await generator.generate_answer(request.query)
+        gen = get_generator()
+        # AnswerGenerator.generate_answer is a synchronous method
+        result = gen.generate_answer(request.query)
         
         return ChatResponse(
             id=os.urandom(8).hex(),
@@ -68,8 +88,8 @@ async def chat_endpoint(request: ChatRequest):
             content=result["answer"],
             status=result["status"],
             metadata={
-                "last_updated": result["metadata"].get("last_updated", "N/A"),
-                "sources": result["metadata"].get("sources", [])
+                "intent": result.get("metadata", {}).get("intent", "N/A"),
+                "chunks_used": result.get("metadata", {}).get("chunks_used", 0)
             }
         )
     except Exception as e:

@@ -41,9 +41,20 @@ class HybridRetriever:
             host = os.getenv("CHROMA_HOST", "localhost")
             port = os.getenv("CHROMA_PORT", "8000")
             ssl = os.getenv("CHROMA_SSL", "false").lower() == "true"
-            self.client = chromadb.HttpClient(host=host, port=port, ssl=ssl)
+            headers = {}
+            auth_token = os.getenv("CHROMA_AUTH_TOKEN")
+            if auth_token:
+                headers["Authorization"] = f"Bearer {auth_token}"
+            
+            self.client = chromadb.HttpClient(
+                host=host, 
+                port=port, 
+                ssl=ssl,
+                headers=headers
+            )
         else:
             persist_dir = os.getenv("CHROMA_PERSIST_DIR", "data/vector_db")
+            os.makedirs(persist_dir, exist_ok=True)
             self.client = chromadb.PersistentClient(path=persist_dir)
             
         # Initialize embedding function manually
@@ -51,7 +62,8 @@ class HybridRetriever:
         from sentence_transformers import SentenceTransformer
         self.embedding_model = SentenceTransformer("BAAI/bge-small-en-v1.5")
         
-        self.collection = self.client.get_collection(name=collection_name)
+        # Use get_or_create to be more robust, though it might be empty if local
+        self.collection = self.client.get_or_create_collection(name=collection_name)
         
         # 2. Initialize Sparse Retrieval (BM25)
         self.corpus_data = self._load_corpus()
