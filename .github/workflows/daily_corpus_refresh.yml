@@ -65,5 +65,10 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HUGGINGFACE_API_KEY }}
         run: |
-          # Sync to Hugging Face Space
-          git push --force https://shub17:$HF_TOKEN@huggingface.co/spaces/shub17/Mutual-Fund_RAG_Chatbot.git main
+          # Sync to Hugging Face Space using a 'Clean Slate' approach to avoid history issues
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git checkout --orphan deploy_branch
+          git add .
+          git commit -m "deploy: clean state without history"
+          git push --force https://shub17:$HF_TOKEN@huggingface.co/spaces/shub17/Mutual-Fund_RAG_Chatbot.git deploy_branch:main
