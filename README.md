@@ -1,3 +1,12 @@
+---
+title: Mutual Fund Assistant
+emoji: 📈
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 # Mutual Fund RAG Chatbot
 
 A production-ready, facts-only Retrieval-Augmented Generation (RAG) assistant for Mutual Funds. This assistant provides accurate information about mutual fund schemes, NAVs, and holdings using data scraped from Groww.
