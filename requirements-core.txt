@@ -11,3 +11,4 @@ python-dotenv
 chromadb
 tiktoken
 pysqlite3-binary
+groq
