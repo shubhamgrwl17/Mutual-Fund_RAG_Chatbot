@@ -72,6 +72,7 @@ jobs:
           # Sync to Hugging Face Space using a 'Clean Slate' approach to avoid history issues
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          git pull origin main
           git checkout --orphan deploy_branch
           git add .
           git commit -m "deploy: clean state without history"
