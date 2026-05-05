@@ -1,5 +1,7 @@
 import json
 import logging
+import time
+import requests
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
@@ -72,34 +74,71 @@ class MutualFundIndexer:
     def __init__(self, config: IndexerConfig):
         self.config = config
         self.client = self._create_client()
-        self.collection = self.client.get_or_create_collection(
-            name=self.config.collection_name
-        )
+        self.collection = self._get_collection()
+
+    def _get_collection(self):
+        """Helper to get collection with a small retry since the client might still be stabilizing."""
+        for attempt in range(1, 4):
+            try:
+                return self.client.get_or_create_collection(
+                    name=self.config.collection_name
+                )
+            except Exception as e:
+                if attempt == 3:
+                    raise
+                logger.warning(f"Attempt {attempt} to get collection failed: {e}. Retrying...")
+                time.sleep(5)
+
+    def _wake_up_remote(self):
+        """Send a heartbeat request to wake up a potentially sleeping remote host (like HF Spaces)."""
+        if self.config.mode != "remote":
+            return
+
+        scheme = "https" if self.config.ssl else "http"
+        url = f"{scheme}://{self.config.host}:{self.config.port}/api/v1/heartbeat"
+        
+        logger.info(f"Sending wake-up heartbeat to {url}...")
+        try:
+            # We use a long timeout for the wake-up call itself
+            response = requests.get(url, timeout=60)
+            if response.status_code == 200:
+                logger.info("Host is awake and responding.")
+                return True
+            else:
+                logger.warning(f"Host responded with status {response.status_code}")
+        except Exception as e:
+            logger.warning(f"Wake-up ping failed: {e}")
+        
+        return False
 
     def _create_client(self):
         mode = (self.config.mode or "").lower().strip()
         if mode == "remote":
+            # 1. Try to wake up the space first
+            self._wake_up_remote()
+
             headers = {}
             if self.config.auth_token:
                 headers["Authorization"] = f"Bearer {self.config.auth_token}"
-            # Some Chroma versions don't accept headers; handle gracefully.
-            try:
-                return chromadb.HttpClient(
-                    host=self.config.host,
-                    port=self.config.port,
-                    ssl=self.config.ssl,
-                    headers=headers or None,
-                )
-            except TypeError:
-                client = chromadb.HttpClient(
-                    host=self.config.host, port=self.config.port, ssl=self.config.ssl
-                )
-                if headers:
-                    logger.warning(
-                        "Chroma HttpClient does not support headers in this version; "
-                        "auth token will be ignored."
+
+            # 2. Initialize client with retries
+            for attempt in range(1, 4):
+                try:
+                    logger.info(f"Initializing Chroma HttpClient (Attempt {attempt}/3)...")
+                    return chromadb.HttpClient(
+                        host=self.config.host,
+                        port=self.config.port,
+                        ssl=self.config.ssl,
+                        headers=headers or None,
                     )
-                return client
+                except Exception as e:
+                    if attempt == 3:
+                        logger.error(f"Failed to initialize Chroma client after {attempt} attempts.")
+                        raise
+                    logger.warning(f"Attempt {attempt} failed: {e}. Retrying in 10s...")
+                    time.sleep(10)
+                    # Try waking up again if it failed
+                    self._wake_up_remote()
 
         if mode == "local":
             persist_path = Path(self.config.persist_dir)
