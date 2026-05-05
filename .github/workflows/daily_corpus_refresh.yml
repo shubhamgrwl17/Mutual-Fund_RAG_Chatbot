@@ -33,6 +33,8 @@ jobs:
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           CHROMA_HOST: ${{ secrets.CHROMA_HOST }}
+          CHROMA_PORT: 443
+          CHROMA_SSL: true
           CHROMA_AUTH_TOKEN: ${{ secrets.CHROMA_AUTH_TOKEN }}
           CHROMA_MODE: remote
         run: python src/phase0_scheduler/daily_refresh.py
