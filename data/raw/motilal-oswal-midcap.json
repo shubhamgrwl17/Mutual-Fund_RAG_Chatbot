@@ -85,7 +85,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "Motilal Oswal Midcap Fund Direct Growth - Groww",
-  "meta_desc": "Motilal Oswal Midcap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 22.72. Risk is Very High",
+  "meta_desc": "Motilal Oswal Midcap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 23.02. Risk is Very High",
   "meta_robots": "index",
   "amc": "MOTILAL_OSWAL",
   "scheme_code": "127042",
@@ -110,7 +110,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 35734.9751,
-  "expense_ratio": "0.78",
+  "expense_ratio": "0.82",
   "portfolio_turnover": 35,
   "super_category": "Motilal Oswal Midcap Fund",
   "sub_sub_category": "",
@@ -133,7 +133,7 @@
       "scheme_code": "127042",
       "analysis_type": "CONS",
       "analysis_subject": "c_return_analysis",
-      "analysis_desc": "1Y annualised returns lower than category average by 2.96%",
+      "analysis_desc": "1Y annualised returns lower than category average by 3.26%",
       "analysis_data": "c_return_analysis",
       "rating": null
     },
@@ -141,8 +141,8 @@
       "scheme_code": "127042",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 0.78%",
-      "analysis_data": "0.78",
+      "analysis_desc": "Lower expense ratio: 0.82%",
+      "analysis_data": "0.82",
       "rating": null
     }
   ],
@@ -152,7 +152,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 124825.8881,
-    "launch_date": "2009-12-28T18:30:00.548Z",
+    "launch_date": "2009-12-28T18:30:00.761Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -187,9 +187,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": -1,
-      "stat_3y": 22.72,
-      "stat_5y": 24.37,
+      "stat_1y": -1.3,
+      "stat_3y": 23.02,
+      "stat_5y": 24.79,
       "stat_all": 20.22,
       "title": "Fund Returns"
     },
@@ -213,19 +213,19 @@
   "return_stats": [
     {
       "scheme_code": "127042",
-      "return1d": 2.08,
-      "return1w": 1.5,
-      "return1m": 9.53,
-      "return3m": -0.23,
-      "return6m": -8.99,
+      "return1d": 0.8,
+      "return1w": 3.25,
+      "return1m": 10.04,
+      "return3m": 0.57,
+      "return6m": -8.12,
       "return9m": null,
-      "return1y": -1,
+      "return1y": -1.3,
       "return2y": null,
-      "return3y": 22.72,
+      "return3y": 23.02,
       "return4y": null,
-      "return5y": 24.37,
+      "return5y": 24.79,
       "return7y": null,
-      "return10y": 18.24,
+      "return10y": 18.33,
       "return_default": 20.22,
       "mean_return": 5.35,
       "sharpe_ratio": 0.7875780659,
@@ -233,7 +233,7 @@
       "standard_deviation": 20.734924034660466,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 21.4780071548,
+      "return_since_created": 21.5516621003,
       "cat_return3m": 3.790142971673846,
       "cat_return6m": -0.01429769982222222,
       "cat_return1y": 1.9589569430918827,
@@ -241,7 +241,7 @@
       "cat_return5y": 21.52750809939988,
       "cat_return10y": 15.99766834466025,
       "cat_return_since_launch": null,
-      "rank3m": 56,
+      "rank3m": 55,
       "rank6m": 54,
       "rank1yr": 51,
       "rank3yr": 27,
@@ -713,8 +713,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 107.4244,
-  "nav_date": "06-May-2026",
+  "nav": 108.2798,
+  "nav_date": "07-May-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -768,6 +768,11 @@
           "scheme_name": "Motilal Oswal Business Cycle Fund Direct Growth",
           "scheme_code": "152796",
           "search_id": "motilal-oswal-business-cycle-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Contra Fund Direct Growth",
+          "scheme_code": "154337",
+          "search_id": "motilal-oswal-contra-fund-direct-growth"
         }
       ]
     },
@@ -1004,6 +1009,11 @@
           "scheme_name": "Motilal Oswal Multi Factor Passive FoF Direct Growth",
           "scheme_code": "154239",
           "search_id": "motilal-oswal-multi-factor-passive-fof-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Contra Fund Direct Growth",
+          "scheme_code": "154337",
+          "search_id": "motilal-oswal-contra-fund-direct-growth"
         }
       ]
     },
@@ -1136,6 +1146,11 @@
           "scheme_name": "Motilal Oswal Consumption Fund Direct Growth",
           "scheme_code": "153913",
           "search_id": "motilal-oswal-consumption-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Contra Fund Direct Growth",
+          "scheme_code": "154337",
+          "search_id": "motilal-oswal-contra-fund-direct-growth"
         }
       ]
     },
@@ -1407,6 +1422,11 @@
           "scheme_name": "Motilal Oswal Multi Factor Passive FoF Direct Growth",
           "scheme_code": "154239",
           "search_id": "motilal-oswal-multi-factor-passive-fof-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Contra Fund Direct Growth",
+          "scheme_code": "154337",
+          "search_id": "motilal-oswal-contra-fund-direct-growth"
         }
       ]
     }
@@ -1432,16 +1452,16 @@
     "return1d": null,
     "return1w": null,
     "return1m": null,
-    "return3m": 99.12307569363301,
-    "return6m": 5.216783839536173,
-    "return9m": -6.4900888972113515,
-    "return1y": -7.7280929275089445,
-    "return2y": -4.038654940073143,
-    "return3y": 7.66165321310282,
-    "return4y": 14.810869085251216,
-    "return5y": 17.598121639600965,
+    "return3m": 111.599710999583,
+    "return6m": 8.984208786494788,
+    "return9m": -4.2469510032389195,
+    "return1y": -6.094781227489573,
+    "return2y": -3.2292975591968114,
+    "return3y": 8.2074380322185,
+    "return4y": 15.213450037284066,
+    "return5y": 17.911915927533162,
     "return7y": null,
-    "return10y": 19.887551293383112,
+    "return10y": 20.02658013485124,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -1581,6 +1601,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.82,
+      "as_on_date": "2026-05-06T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.78,
       "as_on_date": "2026-05-05T00:00:00",
@@ -7986,8 +8012,8 @@
       "sub_sub_category": "",
       "aum": 4490.64082819,
       "mean_return": null,
-      "return3y": 28.21,
-      "return1y": 20.52,
+      "return3y": 28.6,
+      "return1y": 20.21,
       "min_investment": 500,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8008,7 +8034,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/whiteoak_groww.png",
       "groww_scheme_code": "INF03VN01597",
-      "expense_ratio": "1.1",
+      "expense_ratio": "1.09",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8025,8 +8051,8 @@
       "sub_sub_category": "",
       "aum": 13553.6161,
       "mean_return": 8.89,
-      "return3y": 27.03,
-      "return1y": 16.06,
+      "return3y": 27.45,
+      "return1y": 15.91,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8047,7 +8073,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "1.05",
+      "expense_ratio": "1.07",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8064,8 +8090,8 @@
       "sub_sub_category": "",
       "aum": 39676.1316,
       "mean_return": 15.99,
-      "return3y": 26.9,
-      "return1y": 17.13,
+      "return3y": 27.34,
+      "return1y": 16.87,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8086,7 +8112,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
       "groww_scheme_code": "INF204K01E54",
-      "expense_ratio": "0.74",
+      "expense_ratio": "0.86",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8103,8 +8129,8 @@
       "sub_sub_category": "",
       "aum": 11898.18654518,
       "mean_return": 3.13,
-      "return3y": 25.9,
-      "return1y": 16.41,
+      "return3y": 26.23,
+      "return1y": 15.96,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -8125,7 +8151,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.38",
+      "expense_ratio": "1.04",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8142,8 +8168,8 @@
       "sub_sub_category": "",
       "aum": 85357.9246,
       "mean_return": 5.62,
-      "return3y": 24.66,
-      "return1y": 14.39,
+      "return3y": 24.86,
+      "return1y": 13.9,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8164,7 +8190,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/hdfc_groww.png",
       "groww_scheme_code": "INF179K01XQ0",
-      "expense_ratio": "0.73",
+      "expense_ratio": "0.77",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
