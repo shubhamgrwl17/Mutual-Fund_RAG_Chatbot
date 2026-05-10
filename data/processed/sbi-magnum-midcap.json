@@ -14,7 +14,7 @@
   "nav": 271.7202,
   "nav_date": "08-May-2026",
   "aum": 20576.4559,
-  "expense_ratio": "0.98",
+  "expense_ratio": "0.85",
   "exit_load": "Exit load of 0.25% if redeemed within 30 days and 0.10% if redeemed after 30 days but on or before 90 days.",
   "min_sip_investment": 500,
   "max_sip_investment": 999999999,
@@ -161,7 +161,7 @@
   "_metadata": {
     "scheme_id": "sbi-magnum-midcap",
     "source_url": "https://groww.in/mutual-funds/sbi-mid-cap-direct-plan-growth",
-    "scrape_timestamp": "2026-05-09T04:06:28.704327Z",
+    "scrape_timestamp": "2026-05-10T04:35:25.695385Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

@@ -110,7 +110,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 16193.9343,
-  "expense_ratio": "1.16",
+  "expense_ratio": "0.59",
   "portfolio_turnover": 47,
   "super_category": "Mirae Asset Midcap Fund",
   "sub_sub_category": "",
@@ -133,8 +133,8 @@
       "scheme_code": "147445",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 1.16%",
-      "analysis_data": "1.16",
+      "analysis_desc": "Lower expense ratio: 0.59%",
+      "analysis_data": "0.59",
       "rating": null
     },
     {
@@ -152,7 +152,7 @@
     "address": "Unit No.606 - 6th Floor,Windsor Building - Off. CST Road,Kalina, Santacruz (East), Mumbai 400098",
     "phone": "022-67800301 / 1800-2090-777",
     "aum": 200687.68220815,
-    "launch_date": "2007-11-29T18:30:00.239Z",
+    "launch_date": "2007-11-29T18:30:00.694Z",
     "email": null,
     "rank": "13",
     "description": "Mirae Asset Mutual Fund started their mutual fund on 30/11/2007 and its managing total assets of ₹11,044 Cr. Its ranked at 22 as per total assets at end of 30th Sep 2017.",
@@ -203,9 +203,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 5,
-      "stat_3y": 25,
-      "stat_5y": 18,
+      "stat_1y": 6,
+      "stat_3y": 27,
+      "stat_5y": 19,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -243,9 +243,9 @@
       "cat_return_since_launch": null,
       "rank3m": 31,
       "rank6m": 46,
-      "rank1yr": 5,
-      "rank3yr": 25,
-      "rank5yr": 18,
+      "rank1yr": 6,
+      "rank3yr": 27,
+      "rank5yr": 19,
       "rank10yr": null,
       "index_return1y": -18.4530706158,
       "index_return3y": 13.554451639382,
@@ -1407,6 +1407,24 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.59,
+      "as_on_date": "2026-05-10T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.59,
+      "as_on_date": "2026-05-09T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.63,
+      "as_on_date": "2026-05-08T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.16,
       "as_on_date": "2026-05-07T00:00:00",
@@ -7597,7 +7615,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "0.65",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -7675,7 +7693,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.5",
+      "expense_ratio": "0.88",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
