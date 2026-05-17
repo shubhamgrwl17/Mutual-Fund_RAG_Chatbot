@@ -160,7 +160,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 23247.37316203,
-  "expense_ratio": "1.58",
+  "expense_ratio": "0.85",
   "portfolio_turnover": 33,
   "super_category": "SBI Mid Cap Direct Plan-Growth",
   "sub_sub_category": "",
@@ -189,10 +189,10 @@
     },
     {
       "scheme_code": "119716",
-      "analysis_type": "CONS",
+      "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Higher expense ratio: 1.58%",
-      "analysis_data": "1.58",
+      "analysis_desc": "Lower expense ratio: 0.85%",
+      "analysis_data": "0.85",
       "rating": null
     }
   ],
@@ -202,7 +202,7 @@
     "address": "9th Floor & Unit no. 1002, 1003 and 1004 of 10th floor,Crescenzo, C-38 & 39, G Block, Bandra Kurla Complex,Bandra (East) Mumbai 400051",
     "phone": "022-61793000 / 1800-425-5425",
     "aum": 1255465.11659363,
-    "launch_date": "1987-06-28T18:30:00.564Z",
+    "launch_date": "1987-06-28T18:30:00.657Z",
     "email": "Customer.Delight@sbimf.com",
     "rank": "1",
     "description": "SBI Mutual Fund started their mutual fund on 29/06/1987 and its managing total assets of ₹1,88,455 Cr. Its ranked at 5 as per total assets at end of 30th Sep 2017.",
@@ -1539,6 +1539,24 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.85,
+      "as_on_date": "2026-05-17T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.85,
+      "as_on_date": "2026-05-16T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.95,
+      "as_on_date": "2026-05-15T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.58,
       "as_on_date": "2026-05-14T00:00:00",
@@ -8065,7 +8083,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "1.13",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
