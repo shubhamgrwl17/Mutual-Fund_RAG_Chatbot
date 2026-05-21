@@ -11,10 +11,10 @@
   "isin": "INF200K01TP4",
   "scheme_code": "119716",
   "description": "The scheme aims to provide investors with opportunities for long term growth in capital along with the liquidity of an open-ended scheme by investing predominantly in a well-diversified basket of equity stocks of Midcap companies.",
-  "nav": 264.5932,
-  "nav_date": "19-May-2026",
+  "nav": 264.8092,
+  "nav_date": "20-May-2026",
   "aum": 23247.37316203,
-  "expense_ratio": "1.19",
+  "expense_ratio": "1.24",
   "exit_load": "Exit load of 0.25% if redeemed within 30 days and 0.10% if redeemed after 30 days but on or before 90 days.",
   "min_sip_investment": 500,
   "max_sip_investment": 999999999,
@@ -113,9 +113,9 @@
     }
   ],
   "returns": {
-    "returns_1y": 1.08,
-    "returns_3y": 15.69,
-    "returns_5y": 17.03,
+    "returns_1y": 2.37,
+    "returns_3y": 15.71,
+    "returns_5y": 16.97,
     "returns_10y": null,
     "returns_since_launch": 19.06
   },
@@ -157,7 +157,7 @@
   "_metadata": {
     "scheme_id": "sbi-magnum-midcap",
     "source_url": "https://groww.in/mutual-funds/sbi-mid-cap-direct-plan-growth",
-    "scrape_timestamp": "2026-05-20T04:50:43.321161Z",
+    "scrape_timestamp": "2026-05-21T04:56:54.680047Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
