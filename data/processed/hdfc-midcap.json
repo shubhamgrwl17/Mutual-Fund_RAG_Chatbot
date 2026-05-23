@@ -11,10 +11,10 @@
   "isin": "INF179K01XQ0",
   "scheme_code": "118989",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.",
-  "nav": 220.534,
-  "nav_date": "21-May-2026",
+  "nav": 220.359,
+  "nav_date": "22-May-2026",
   "aum": 94744.7175,
-  "expense_ratio": "0.75",
+  "expense_ratio": "0.73",
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "min_sip_investment": 100,
   "max_sip_investment": 999999999,
@@ -101,9 +101,9 @@
     }
   ],
   "returns": {
-    "returns_1y": 7.39,
-    "returns_3y": 23.79,
-    "returns_5y": 21.17,
+    "returns_1y": 7.48,
+    "returns_3y": 23.48,
+    "returns_5y": 21.14,
     "returns_10y": null,
     "returns_since_launch": 19.3
   },
@@ -141,7 +141,7 @@
   "_metadata": {
     "scheme_id": "hdfc-midcap",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "scrape_timestamp": "2026-05-22T04:47:52.015505Z",
+    "scrape_timestamp": "2026-05-23T04:28:27.535629Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
