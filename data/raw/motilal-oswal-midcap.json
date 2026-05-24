@@ -110,7 +110,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 35734.9751,
-  "expense_ratio": "0.75",
+  "expense_ratio": "0.87",
   "portfolio_turnover": 35,
   "super_category": "Motilal Oswal Midcap Fund",
   "sub_sub_category": "",
@@ -141,8 +141,8 @@
       "scheme_code": "127042",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 0.75%",
-      "analysis_data": "0.75",
+      "analysis_desc": "Lower expense ratio: 0.87%",
+      "analysis_data": "0.87",
       "rating": null
     }
   ],
@@ -152,7 +152,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 143824.90208054,
-    "launch_date": "2009-12-28T18:30:00.714Z",
+    "launch_date": "2009-12-28T18:30:00.090Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -1587,6 +1587,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.87,
+      "as_on_date": "2026-05-22T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.75,
       "as_on_date": "2026-05-21T00:00:00",
@@ -8149,7 +8155,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "0.69",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
