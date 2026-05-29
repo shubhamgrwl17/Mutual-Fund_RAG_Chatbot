@@ -110,7 +110,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 18387.6558,
-  "expense_ratio": "1.54",
+  "expense_ratio": "0.59",
   "portfolio_turnover": 47,
   "super_category": "Mirae Asset Midcap Fund",
   "sub_sub_category": "",
@@ -131,10 +131,10 @@
     },
     {
       "scheme_code": "147445",
-      "analysis_type": "CONS",
+      "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Higher expense ratio: 1.54%",
-      "analysis_data": "1.54",
+      "analysis_desc": "Lower expense ratio: 0.59%",
+      "analysis_data": "0.59",
       "rating": null
     },
     {
@@ -152,7 +152,7 @@
     "address": "Unit No.606 - 6th Floor,Windsor Building - Off. CST Road,Kalina, Santacruz (East), Mumbai 400098",
     "phone": "022-67800301 / 1800-2090-777",
     "aum": 223763.21948168,
-    "launch_date": "2007-11-29T18:30:00.445Z",
+    "launch_date": "2007-11-29T18:30:00.806Z",
     "email": null,
     "rank": "13",
     "description": "Mirae Asset Mutual Fund started their mutual fund on 30/11/2007 and its managing total assets of ₹11,044 Cr. Its ranked at 22 as per total assets at end of 30th Sep 2017.",
@@ -1421,6 +1421,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.59,
+      "as_on_date": "2026-05-27T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.54,
       "as_on_date": "2026-05-26T00:00:00",
@@ -7725,7 +7731,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "0.89",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -7764,7 +7770,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
       "groww_scheme_code": "INF204K01E54",
-      "expense_ratio": "1.31",
+      "expense_ratio": "0.78",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -7803,7 +7809,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.07",
+      "expense_ratio": "0.88",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,

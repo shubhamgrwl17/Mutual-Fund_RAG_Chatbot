@@ -132,7 +132,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 45820.3319,
-  "expense_ratio": "1.31",
+  "expense_ratio": "0.78",
   "portfolio_turnover": 74,
   "super_category": "Nippon India Growth Mid Cap Fund",
   "sub_sub_category": "",
@@ -155,8 +155,8 @@
       "scheme_code": "118668",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 1.31%",
-      "analysis_data": "1.31",
+      "analysis_desc": "Lower expense ratio: 0.78%",
+      "analysis_data": "0.78",
       "rating": null
     },
     {
@@ -174,7 +174,7 @@
     "address": "30th Floor, One Lodha PlaceSenapati Bapat Marg, Lower ParelMumbai Mumbai 400013",
     "phone": "+91 022 6808 7000",
     "aum": 749710.37997897,
-    "launch_date": "1995-06-29T18:30:00.456Z",
+    "launch_date": "1995-06-29T18:30:00.569Z",
     "email": null,
     "rank": "4",
     "description": "Reliance Mutual Fund started their mutual fund on 30/06/1995 and its managing total assets of ₹2,32,169 Cr. Its ranked at 3 as per total assets at end of 30th Sep 2017.",
@@ -225,7 +225,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 12,
+      "stat_1y": 11,
       "stat_3y": 9,
       "stat_5y": 2,
       "stat_all": null,
@@ -265,7 +265,7 @@
       "cat_return_since_launch": null,
       "rank3m": 46,
       "rank6m": 5,
-      "rank1yr": 12,
+      "rank1yr": 11,
       "rank3yr": 9,
       "rank5yr": 2,
       "rank10yr": 3,
@@ -2379,6 +2379,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.78,
+      "as_on_date": "2026-05-27T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.31,
       "as_on_date": "2026-05-26T00:00:00",
@@ -8893,7 +8899,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "0.89",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8932,7 +8938,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
       "groww_scheme_code": "INF204K01E54",
-      "expense_ratio": "1.31",
+      "expense_ratio": "0.78",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8971,7 +8977,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.07",
+      "expense_ratio": "0.88",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
