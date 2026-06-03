@@ -11,8 +11,8 @@
   "isin": "INF109K011N7",
   "scheme_code": "120381",
   "description": "This scheme aims to generate long term capital appreciation by investing in diversified midcap stocks portfolio. It will predominantly invest in companies with market capitalization falling between the lowest and the highest market capitalisation among the constituents of Nifty Midcap 100 Index.",
-  "nav": 380.79,
-  "nav_date": "29-May-2026",
+  "nav": 374.95,
+  "nav_date": "02-Jun-2026",
   "aum": 7556.67865939,
   "expense_ratio": "1.02",
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -28,86 +28,82 @@
   "stamp_duty": "0.005% (from July 1st, 2020)",
   "holdings_top10": [
     {
-      "company_name": "Multi Commodity Exchange Of India Ltd.",
+      "company_name": "Multi Commodity Exchange Of India Ltd",
       "allocation_percent": 4.87548057,
-      "sector": "Services"
+      "sector": "Financial"
     },
     {
-      "company_name": "BSE Ltd.",
+      "company_name": "BSE Ltd",
       "allocation_percent": 4.87463364,
-      "sector": "Services"
+      "sector": "Financial"
     },
     {
-      "company_name": "Jindal Steel Ltd.",
+      "company_name": "Jindal Steel & Power Ltd",
       "allocation_percent": 4.51009121,
-      "sector": "Metals & Mining"
+      "sector": "Materials"
     },
     {
-      "company_name": "Apar Industries Ltd.",
+      "company_name": "Apar Industries Ltd",
       "allocation_percent": 4.30323975,
-      "sector": "Consumer Staples"
+      "sector": "Diversified"
     },
     {
-      "company_name": "Muthoot Finance Ltd.",
+      "company_name": "Muthoot Finance Ltd",
       "allocation_percent": 3.73610699,
       "sector": "Financial"
     },
     {
-      "company_name": "APL Apollo Tubes Ltd.",
+      "company_name": "APL Apollo Tubes Ltd",
       "allocation_percent": 3.59284564,
-      "sector": "Metals & Mining"
+      "sector": "Industrials"
     },
     {
-      "company_name": "Jindal Stainless Ltd.",
+      "company_name": "Jindal Stainless Ltd",
       "allocation_percent": 3.15496411,
-      "sector": "Metals & Mining"
+      "sector": "Materials"
     },
     {
-      "company_name": "Hindustan Petroleum Corporation Ltd.",
+      "company_name": "Hindustan Petroleum Corporation Ltd",
       "allocation_percent": 3.13934481,
-      "sector": "Energy"
+      "sector": "Energy & Utilities"
     },
     {
-      "company_name": "PB Fintech Ltd.",
+      "company_name": "PB Fintech Ltd",
       "allocation_percent": 3.10584068,
-      "sector": "Services"
+      "sector": "Financial"
     },
     {
-      "company_name": "UPL Ltd.",
+      "company_name": "UPL Ltd",
       "allocation_percent": 2.94350348,
-      "sector": "Chemicals"
+      "sector": "Materials"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Services",
-      "allocation_percent": 12.856
+      "sector": "Financial",
+      "allocation_percent": 16.5921
     },
     {
-      "sector": "Metals & Mining",
-      "allocation_percent": 11.2579
+      "sector": "Materials",
+      "allocation_percent": 10.6086
     },
     {
-      "sector": "Consumer Staples",
+      "sector": "Diversified",
       "allocation_percent": 4.3032
     },
     {
-      "sector": "Financial",
-      "allocation_percent": 3.7361
+      "sector": "Industrials",
+      "allocation_percent": 3.5928
     },
     {
-      "sector": "Energy",
+      "sector": "Energy & Utilities",
       "allocation_percent": 3.1393
-    },
-    {
-      "sector": "Chemicals",
-      "allocation_percent": 2.9435
     }
   ],
   "returns": {
-    "returns_1y": 18.54,
-    "returns_3y": 26.91,
-    "returns_5y": 20.45,
+    "returns_1y": 16.02,
+    "returns_3y": 25.95,
+    "returns_5y": 19.99,
     "returns_10y": null,
     "returns_since_launch": 18.64
   },
@@ -153,7 +149,7 @@
   "_metadata": {
     "scheme_id": "icici-prudential-midcap",
     "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-06-01T05:29:27.473413Z",
+    "scrape_timestamp": "2026-06-03T05:30:48.941068Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
