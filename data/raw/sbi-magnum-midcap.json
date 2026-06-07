@@ -160,7 +160,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 23247.37316203,
-  "expense_ratio": "0.91",
+  "expense_ratio": "0.85",
   "portfolio_turnover": 33,
   "super_category": "SBI Mid Cap Direct Plan-Growth",
   "sub_sub_category": "",
@@ -183,8 +183,8 @@
       "scheme_code": "119716",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 0.91%",
-      "analysis_data": "0.91",
+      "analysis_desc": "Lower expense ratio: 0.85%",
+      "analysis_data": "0.85",
       "rating": null
     }
   ],
@@ -194,7 +194,7 @@
     "address": "9th Floor & Unit no. 1002, 1003 and 1004 of 10th floor,Crescenzo, C-38 & 39, G Block, Bandra Kurla Complex,Bandra (East) Mumbai 400051",
     "phone": "022-61793000 / 1800-425-5425",
     "aum": 1255465.11659363,
-    "launch_date": "1987-06-28T18:30:00.976Z",
+    "launch_date": "1987-06-28T18:30:00.557Z",
     "email": "Customer.Delight@sbimf.com",
     "rank": "1",
     "description": "SBI Mutual Fund started their mutual fund on 29/06/1987 and its managing total assets of ₹1,88,455 Cr. Its ranked at 5 as per total assets at end of 30th Sep 2017.",
@@ -245,7 +245,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 46,
+      "stat_1y": 39,
       "stat_3y": 37,
       "stat_5y": 21,
       "stat_all": null,
@@ -285,7 +285,7 @@
       "cat_return_since_launch": null,
       "rank3m": 54,
       "rank6m": 38,
-      "rank1yr": 46,
+      "rank1yr": 39,
       "rank3yr": 37,
       "rank5yr": 21,
       "rank10yr": 19,
@@ -1573,6 +1573,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.85,
+      "as_on_date": "2026-06-05T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.91,
       "as_on_date": "2026-06-04T00:00:00",
@@ -8225,7 +8231,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "0.78",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
