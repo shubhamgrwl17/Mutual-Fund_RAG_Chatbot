@@ -11,9 +11,9 @@
   "isin": "INF179K01XQ0",
   "scheme_code": "118989",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.",
-  "nav": 218,
-  "nav_date": "08-Jun-2026",
-  "aum": 94744.7175,
+  "nav": 220.409,
+  "nav_date": "09-Jun-2026",
+  "aum": 97350.4842,
   "expense_ratio": "0.73",
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "min_sip_investment": 100,
@@ -28,22 +28,27 @@
   "stamp_duty": "0.005% (from July 1st, 2020)",
   "holdings_top10": [
     {
-      "company_name": "Max Financial Services Ltd.",
+      "company_name": "Repo",
+      "allocation_percent": 6.61,
+      "sector": "Unspecified"
+    },
+    {
+      "company_name": "Max Financial Services Ltd",
       "allocation_percent": 4.37,
       "sector": "Financial"
     },
     {
-      "company_name": "AU Small Finance Bank Ltd.",
+      "company_name": "AU Small Finance Bank Ltd",
       "allocation_percent": 4.24,
       "sector": "Financial"
     },
     {
-      "company_name": "The Federal Bank Ltd.",
+      "company_name": "The Federal Bank Ltd",
       "allocation_percent": 3.87,
       "sector": "Financial"
     },
     {
-      "company_name": "Glenmark Pharmaceuticals Ltd.",
+      "company_name": "Glenmark Pharmaceuticals Ltd",
       "allocation_percent": 3.41,
       "sector": "Healthcare"
     },
@@ -53,29 +58,24 @@
       "sector": "Financial"
     },
     {
-      "company_name": "Balkrishna Industries Ltd.",
+      "company_name": "Balkrishna Industries Ltd",
       "allocation_percent": 3.25,
-      "sector": "Automobile"
+      "sector": "Consumer Discretionary"
     },
     {
-      "company_name": "Fortis Healthcare Ltd.",
+      "company_name": "Fortis Healthcare Ltd",
       "allocation_percent": 3.16,
       "sector": "Healthcare"
     },
     {
       "company_name": "Vishal Mega Mart Ltd.",
       "allocation_percent": 2.92,
-      "sector": "Services"
+      "sector": "Consumer Staples"
     },
     {
-      "company_name": "Ipca Laboratories Ltd.",
+      "company_name": "Ipca Laboratories Ltd",
       "allocation_percent": 2.92,
       "sector": "Healthcare"
-    },
-    {
-      "company_name": "Cummins India Ltd.",
-      "allocation_percent": 2.5,
-      "sector": "Capital Goods"
     }
   ],
   "sector_allocation": [
@@ -88,22 +88,22 @@
       "allocation_percent": 9.49
     },
     {
-      "sector": "Automobile",
+      "sector": "Unspecified",
+      "allocation_percent": 6.61
+    },
+    {
+      "sector": "Consumer Discretionary",
       "allocation_percent": 3.25
     },
     {
-      "sector": "Services",
+      "sector": "Consumer Staples",
       "allocation_percent": 2.92
-    },
-    {
-      "sector": "Capital Goods",
-      "allocation_percent": 2.5
     }
   ],
   "returns": {
-    "returns_1y": 3.44,
-    "returns_3y": 21.21,
-    "returns_5y": 19.84,
+    "returns_1y": 3.49,
+    "returns_3y": 21.36,
+    "returns_5y": 20.23,
     "returns_10y": null,
     "returns_since_launch": 19.3
   },
@@ -141,7 +141,7 @@
   "_metadata": {
     "scheme_id": "hdfc-midcap",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "scrape_timestamp": "2026-06-09T04:50:02.338269Z",
+    "scrape_timestamp": "2026-06-10T05:04:17.296037Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
