@@ -194,7 +194,7 @@
     "address": "9th Floor & Unit no. 1002, 1003 and 1004 of 10th floor,Crescenzo, C-38 & 39, G Block, Bandra Kurla Complex,Bandra (East) Mumbai 400051",
     "phone": "022-61793000 / 1800-425-5425",
     "aum": 1255524.28008315,
-    "launch_date": "1987-06-28T18:30:00.251Z",
+    "launch_date": "1987-06-28T18:30:00.993Z",
     "email": "Customer.Delight@sbimf.com",
     "rank": "1",
     "description": "SBI Mutual Fund started their mutual fund on 29/06/1987 and its managing total assets of ₹1,88,455 Cr. Its ranked at 5 as per total assets at end of 30th Sep 2017.",
@@ -245,8 +245,8 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 41,
-      "stat_3y": 37,
+      "stat_1y": 46,
+      "stat_3y": 38,
       "stat_5y": 21,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -285,8 +285,8 @@
       "cat_return_since_launch": null,
       "rank3m": 58,
       "rank6m": 48,
-      "rank1yr": 41,
-      "rank3yr": 37,
+      "rank1yr": 46,
+      "rank3yr": 38,
       "rank5yr": 21,
       "rank10yr": 19,
       "index_return1y": -14.300076954,
@@ -1521,6 +1521,24 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.06,
+      "as_on_date": "2026-06-14T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.06,
+      "as_on_date": "2026-06-13T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.06,
+      "as_on_date": "2026-06-12T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.06,
       "as_on_date": "2026-06-11T00:00:00",
@@ -8215,7 +8233,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "1.11",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8293,7 +8311,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.0",
+      "expense_ratio": "0.88",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,

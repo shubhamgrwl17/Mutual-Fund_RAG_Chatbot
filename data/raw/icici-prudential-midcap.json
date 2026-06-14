@@ -199,7 +199,7 @@
       "scheme_code": "120381",
       "analysis_type": "PROS",
       "analysis_subject": "rank_analysis",
-      "analysis_desc": "1Y category rank: 3, 3Y category rank: 4",
+      "analysis_desc": "1Y category rank: 3, 3Y category rank: 3",
       "analysis_data": "rank_analysis",
       "rating": null
     },
@@ -218,7 +218,7 @@
     "address": "One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051",
     "phone": null,
     "aum": 1118141.85036133,
-    "launch_date": "1993-10-11T18:30:00.175Z",
+    "launch_date": "1993-10-11T18:30:00.269Z",
     "email": null,
     "rank": "3",
     "description": "ICICI Prudential Mutual Fund started their mutual fund on 13/10/1993 and its managing total assets of ₹2,79,369 Cr. Its ranked at 1 as per total assets at end of 30th Sep 2017.",
@@ -270,8 +270,8 @@
     {
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 3,
-      "stat_3y": 4,
-      "stat_5y": 9,
+      "stat_3y": 3,
+      "stat_5y": 8,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -310,8 +310,8 @@
       "rank3m": 13,
       "rank6m": 2,
       "rank1yr": 3,
-      "rank3yr": 4,
-      "rank5yr": 9,
+      "rank3yr": 3,
+      "rank5yr": 8,
       "rank10yr": 7,
       "index_return1y": -14.300076954,
       "index_return3y": 16.568904908224,
@@ -2006,6 +2006,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.15,
+      "as_on_date": "2026-06-12T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.15,
       "as_on_date": "2026-06-11T00:00:00",
@@ -8618,7 +8624,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "1.11",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8696,7 +8702,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.0",
+      "expense_ratio": "0.88",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,

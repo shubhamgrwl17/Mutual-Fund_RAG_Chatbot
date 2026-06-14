@@ -110,7 +110,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 36458.2077,
-  "expense_ratio": "1.18",
+  "expense_ratio": "0.78",
   "portfolio_turnover": 35,
   "super_category": "Motilal Oswal Midcap Fund",
   "sub_sub_category": "",
@@ -141,8 +141,8 @@
       "scheme_code": "127042",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 1.18%",
-      "analysis_data": "1.18",
+      "analysis_desc": "Lower expense ratio: 0.78%",
+      "analysis_data": "0.78",
       "rating": null
     }
   ],
@@ -152,7 +152,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 146102.60902147,
-    "launch_date": "2009-12-28T18:30:00.874Z",
+    "launch_date": "2009-12-28T18:30:00.596Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -1573,6 +1573,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.78,
+      "as_on_date": "2026-06-12T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.18,
       "as_on_date": "2026-06-11T00:00:00",
@@ -8261,7 +8267,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/edelweiss_groww.png",
       "groww_scheme_code": "INF843K01AO4",
-      "expense_ratio": "1.11",
+      "expense_ratio": "0.48",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -8339,7 +8345,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.0",
+      "expense_ratio": "0.88",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
