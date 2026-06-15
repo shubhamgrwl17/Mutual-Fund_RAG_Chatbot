@@ -29,75 +29,75 @@
   "holdings_top10": [
     {
       "company_name": "BSE Ltd",
-      "allocation_percent": 4.21,
+      "allocation_percent": 3.32279712,
       "sector": "Financial"
     },
     {
       "company_name": "Fortis Healthcare Ltd",
-      "allocation_percent": 2.76,
+      "allocation_percent": 2.68007068,
       "sector": "Healthcare"
     },
     {
       "company_name": "The Federal Bank Ltd",
-      "allocation_percent": 2.57,
+      "allocation_percent": 2.49854406,
       "sector": "Financial"
     },
     {
       "company_name": "AU Small Finance Bank Ltd",
-      "allocation_percent": 2.44,
+      "allocation_percent": 2.28442592,
       "sector": "Financial"
     },
     {
       "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 2.24,
+      "allocation_percent": 2.24716188,
       "sector": "Consumer Discretionary"
     },
     {
+      "company_name": "Zomato Ltd",
+      "allocation_percent": 2.16675954,
+      "sector": "Technology"
+    },
+    {
+      "company_name": "Info Edge (India) Ltd",
+      "allocation_percent": 2.10347949,
+      "sector": "Technology"
+    },
+    {
       "company_name": "Power Finance Corporation Ltd",
-      "allocation_percent": 2.17,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "Voltas Ltd",
-      "allocation_percent": 2.16,
-      "sector": "Industrials"
-    },
-    {
-      "company_name": "ICICI Bank Ltd",
-      "allocation_percent": 1.93,
+      "allocation_percent": 2.00671454,
       "sector": "Financial"
     },
     {
       "company_name": "GE T&D India Ltd",
-      "allocation_percent": 1.88,
+      "allocation_percent": 1.95452898,
       "sector": "Industrials"
     },
     {
-      "company_name": "NTPC Green Energy Ltd.",
-      "allocation_percent": 1.85,
-      "sector": "Energy & Utilities"
+      "company_name": "ICICI Bank Ltd",
+      "allocation_percent": 1.85483987,
+      "sector": "Financial"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Financial",
-      "allocation_percent": 13.32
+      "allocation_percent": 11.9673
     },
     {
-      "sector": "Industrials",
-      "allocation_percent": 4.04
+      "sector": "Technology",
+      "allocation_percent": 4.2702
     },
     {
       "sector": "Healthcare",
-      "allocation_percent": 2.76
+      "allocation_percent": 2.6801
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 2.24
+      "allocation_percent": 2.2472
     },
     {
-      "sector": "Energy & Utilities",
-      "allocation_percent": 1.85
+      "sector": "Industrials",
+      "allocation_percent": 1.9545
     }
   ],
   "returns": {
@@ -162,7 +162,7 @@
   "_metadata": {
     "scheme_id": "nippon-india-growth",
     "source_url": "https://groww.in/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth",
-    "scrape_timestamp": "2026-06-14T05:19:23.077959Z",
+    "scrape_timestamp": "2026-06-15T05:43:18.460083Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

@@ -29,79 +29,79 @@
   "holdings_top10": [
     {
       "company_name": "Indusind Bank Ltd",
-      "allocation_percent": 3.7399622,
+      "allocation_percent": 3.61220513,
       "sector": "Financial"
     },
     {
-      "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 3.4866543,
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "company_name": "Lupin Ltd",
-      "allocation_percent": 3.46566379,
+      "company_name": "Laurus Labs Ltd",
+      "allocation_percent": 3.45227004,
       "sector": "Healthcare"
     },
     {
       "company_name": "Steel Authority Of India Ltd",
-      "allocation_percent": 3.1508045,
+      "allocation_percent": 3.37498431,
       "sector": "Materials"
     },
     {
-      "company_name": "Delhivery Ltd",
-      "allocation_percent": 3.12213072,
-      "sector": "Industrials"
-    },
-    {
-      "company_name": "Laurus Labs Ltd",
-      "allocation_percent": 2.8839209,
+      "company_name": "Lupin Ltd",
+      "allocation_percent": 3.29894686,
       "sector": "Healthcare"
     },
     {
-      "company_name": "Bharat Heavy Electricals Ltd",
-      "allocation_percent": 2.81813607,
-      "sector": "Industrials"
-    },
-    {
       "company_name": "Tata Communications Ltd",
-      "allocation_percent": 2.71570447,
+      "allocation_percent": 3.26710028,
       "sector": "Technology"
     },
     {
-      "company_name": "The Federal Bank Ltd",
-      "allocation_percent": 2.63041711,
-      "sector": "Financial"
+      "company_name": "Bharat Forge Ltd",
+      "allocation_percent": 3.08314989,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "company_name": "Delhivery Ltd",
+      "allocation_percent": 2.9259992,
+      "sector": "Industrials"
     },
     {
       "company_name": "PB Fintech Ltd",
-      "allocation_percent": 2.5664337,
+      "allocation_percent": 2.84148197,
       "sector": "Financial"
+    },
+    {
+      "company_name": "Hero Motocorp Ltd",
+      "allocation_percent": 2.78217096,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "company_name": "Bharat Heavy Electricals Ltd",
+      "allocation_percent": 2.78020825,
+      "sector": "Industrials"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Financial",
-      "allocation_percent": 8.9368
-    },
-    {
       "sector": "Healthcare",
-      "allocation_percent": 6.3496
+      "allocation_percent": 6.7512
     },
     {
-      "sector": "Industrials",
-      "allocation_percent": 5.9403
+      "sector": "Financial",
+      "allocation_percent": 6.4537
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 3.4867
+      "allocation_percent": 5.8653
+    },
+    {
+      "sector": "Industrials",
+      "allocation_percent": 5.7062
     },
     {
       "sector": "Materials",
-      "allocation_percent": 3.1508
+      "allocation_percent": 3.375
     },
     {
       "sector": "Technology",
-      "allocation_percent": 2.7157
+      "allocation_percent": 3.2671
     }
   ],
   "returns": {
@@ -144,7 +144,7 @@
   "_metadata": {
     "scheme_id": "mirae-asset-midcap",
     "source_url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-06-14T05:19:28.298279Z",
+    "scrape_timestamp": "2026-06-15T05:43:23.724993Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

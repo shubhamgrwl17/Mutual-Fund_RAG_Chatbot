@@ -28,80 +28,80 @@
   "stamp_duty": "0.005% (from July 1st, 2020)",
   "holdings_top10": [
     {
+      "company_name": "Adani Transmission Ltd",
+      "allocation_percent": 3.20252932,
+      "sector": "Energy & Utilities"
+    },
+    {
       "company_name": "Repo",
-      "allocation_percent": 5.86642152,
+      "allocation_percent": 3.14246505,
       "sector": "Unspecified"
     },
     {
       "company_name": "Bharat Heavy Electricals Ltd",
-      "allocation_percent": 3.78978302,
+      "allocation_percent": 3.10029822,
       "sector": "Industrials"
     },
     {
       "company_name": "Torrent Power Ltd",
-      "allocation_percent": 3.73375519,
+      "allocation_percent": 3.03265859,
       "sector": "Energy & Utilities"
     },
     {
-      "company_name": "Adani Transmission Ltd",
-      "allocation_percent": 3.49055653,
-      "sector": "Energy & Utilities"
+      "company_name": "Biocon Ltd",
+      "allocation_percent": 2.85536369,
+      "sector": "Healthcare"
     },
     {
       "company_name": "Crisil Ltd",
-      "allocation_percent": 3.07693388,
-      "sector": "Industrials"
-    },
-    {
-      "company_name": "AIA Engineering Ltd",
-      "allocation_percent": 2.87571372,
+      "allocation_percent": 2.81229536,
       "sector": "Industrials"
     },
     {
       "company_name": "Supreme Industries Ltd",
-      "allocation_percent": 2.80491046,
+      "allocation_percent": 2.72804754,
       "sector": "Materials"
-    },
-    {
-      "company_name": "Sundaram Finance Ltd",
-      "allocation_percent": 2.63340721,
-      "sector": "Financial"
     },
     {
       "company_name": "Shree Cement Ltd",
-      "allocation_percent": 2.60190687,
+      "allocation_percent": 2.69838928,
       "sector": "Materials"
     },
     {
-      "company_name": "Biocon Ltd",
-      "allocation_percent": 2.41318921,
-      "sector": "Healthcare"
+      "company_name": "AIA Engineering Ltd",
+      "allocation_percent": 2.5002106,
+      "sector": "Industrials"
+    },
+    {
+      "company_name": "Sundaram Finance Ltd",
+      "allocation_percent": 2.4149447,
+      "sector": "Financial"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Industrials",
-      "allocation_percent": 9.7424
+      "allocation_percent": 8.4128
     },
     {
       "sector": "Energy & Utilities",
-      "allocation_percent": 7.2243
-    },
-    {
-      "sector": "Unspecified",
-      "allocation_percent": 5.8664
+      "allocation_percent": 6.2352
     },
     {
       "sector": "Materials",
-      "allocation_percent": 5.4068
+      "allocation_percent": 5.4264
     },
     {
-      "sector": "Financial",
-      "allocation_percent": 2.6334
+      "sector": "Unspecified",
+      "allocation_percent": 3.1425
     },
     {
       "sector": "Healthcare",
-      "allocation_percent": 2.4132
+      "allocation_percent": 2.8554
+    },
+    {
+      "sector": "Financial",
+      "allocation_percent": 2.4149
     }
   ],
   "returns": {
@@ -149,7 +149,7 @@
   "_metadata": {
     "scheme_id": "sbi-magnum-midcap",
     "source_url": "https://groww.in/mutual-funds/sbi-mid-cap-direct-plan-growth",
-    "scrape_timestamp": "2026-06-14T05:19:33.670680Z",
+    "scrape_timestamp": "2026-06-15T05:43:28.936357Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

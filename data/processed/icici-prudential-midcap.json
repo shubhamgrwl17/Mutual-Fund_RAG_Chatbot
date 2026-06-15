@@ -28,76 +28,80 @@
   "stamp_duty": "0.005% (from July 1st, 2020)",
   "holdings_top10": [
     {
-      "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 4.87548057,
-      "sector": "Financial"
-    },
-    {
       "company_name": "BSE Ltd",
-      "allocation_percent": 4.87463364,
+      "allocation_percent": 5.3858027,
       "sector": "Financial"
     },
     {
-      "company_name": "Jindal Steel & Power Ltd",
-      "allocation_percent": 4.51009121,
-      "sector": "Materials"
+      "company_name": "Multi Commodity Exchange Of India Ltd",
+      "allocation_percent": 4.70278803,
+      "sector": "Financial"
     },
     {
       "company_name": "Apar Industries Ltd",
-      "allocation_percent": 4.30323975,
+      "allocation_percent": 4.60955175,
       "sector": "Diversified"
     },
     {
-      "company_name": "Muthoot Finance Ltd",
-      "allocation_percent": 3.73610699,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "APL Apollo Tubes Ltd",
-      "allocation_percent": 3.59284564,
-      "sector": "Industrials"
-    },
-    {
-      "company_name": "Jindal Stainless Ltd",
-      "allocation_percent": 3.15496411,
+      "company_name": "Jindal Steel & Power Ltd",
+      "allocation_percent": 4.31849535,
       "sector": "Materials"
     },
     {
       "company_name": "Hindustan Petroleum Corporation Ltd",
-      "allocation_percent": 3.13934481,
+      "allocation_percent": 3.6828505,
       "sector": "Energy & Utilities"
     },
     {
-      "company_name": "PB Fintech Ltd",
-      "allocation_percent": 3.10584068,
+      "company_name": "Muthoot Finance Ltd",
+      "allocation_percent": 3.53845205,
       "sector": "Financial"
     },
     {
-      "company_name": "UPL Ltd",
-      "allocation_percent": 2.94350348,
-      "sector": "Materials"
+      "company_name": "APL Apollo Tubes Ltd",
+      "allocation_percent": 3.37906133,
+      "sector": "Industrials"
+    },
+    {
+      "company_name": "PB Fintech Ltd",
+      "allocation_percent": 3.07871148,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Kei Industries Ltd",
+      "allocation_percent": 2.9556935,
+      "sector": "Industrials"
+    },
+    {
+      "company_name": "Bharat Forge Ltd",
+      "allocation_percent": 2.95211297,
+      "sector": "Consumer Discretionary"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Financial",
-      "allocation_percent": 16.5921
-    },
-    {
-      "sector": "Materials",
-      "allocation_percent": 10.6086
-    },
-    {
-      "sector": "Diversified",
-      "allocation_percent": 4.3032
+      "allocation_percent": 16.7058
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 3.5928
+      "allocation_percent": 6.3348
+    },
+    {
+      "sector": "Diversified",
+      "allocation_percent": 4.6096
+    },
+    {
+      "sector": "Materials",
+      "allocation_percent": 4.3185
     },
     {
       "sector": "Energy & Utilities",
-      "allocation_percent": 3.1393
+      "allocation_percent": 3.6829
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "allocation_percent": 2.9521
     }
   ],
   "returns": {
@@ -149,7 +153,7 @@
   "_metadata": {
     "scheme_id": "icici-prudential-midcap",
     "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-06-14T05:19:31.130149Z",
+    "scrape_timestamp": "2026-06-15T05:43:26.413367Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

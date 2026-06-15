@@ -29,71 +29,75 @@
   "holdings_top10": [
     {
       "company_name": "One 97 Communications Ltd",
-      "allocation_percent": 7.28771601,
+      "allocation_percent": 7.29,
       "sector": "Industrials"
     },
     {
-      "company_name": "Kalyan Jewellers India Ltd",
-      "allocation_percent": 7.09343687,
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "company_name": "Zomato Ltd",
-      "allocation_percent": 5.83352526,
-      "sector": "Technology"
+      "company_name": "Net Receivables",
+      "allocation_percent": 6.63,
+      "sector": "Unspecified"
     },
     {
       "company_name": "Coforge Ltd",
-      "allocation_percent": 5.58307315,
+      "allocation_percent": 6.12,
       "sector": "Technology"
     },
     {
+      "company_name": "Kalyan Jewellers India Ltd",
+      "allocation_percent": 5.98,
+      "sector": "Consumer Discretionary"
+    },
+    {
       "company_name": "Kei Industries Ltd",
-      "allocation_percent": 5.47916319,
+      "allocation_percent": 5.82,
       "sector": "Industrials"
     },
     {
+      "company_name": "Zomato Ltd",
+      "allocation_percent": 5.8,
+      "sector": "Technology"
+    },
+    {
       "company_name": "Persistent Systems Ltd",
-      "allocation_percent": 5.40847334,
+      "allocation_percent": 5.74,
       "sector": "Technology"
     },
     {
       "company_name": "Aditya Birla Capital Ltd",
-      "allocation_percent": 5.16866626,
+      "allocation_percent": 5.23,
       "sector": "Financial"
     },
     {
       "company_name": "Billionbrains Garage Ventures Ltd.",
-      "allocation_percent": 5.090737,
+      "allocation_percent": 4.29,
       "sector": "Financial"
     },
     {
-      "company_name": "Bharti Airtel Ltd",
-      "allocation_percent": 5.00743486,
-      "sector": "Technology"
-    },
-    {
       "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 4.33186366,
+      "allocation_percent": 4.22,
       "sector": "Financial"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Technology",
-      "allocation_percent": 21.8325
+      "allocation_percent": 17.66
     },
     {
       "sector": "Financial",
-      "allocation_percent": 14.5913
+      "allocation_percent": 13.74
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 12.7669
+      "allocation_percent": 13.11
+    },
+    {
+      "sector": "Unspecified",
+      "allocation_percent": 6.63
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 7.0934
+      "allocation_percent": 5.98
     }
   ],
   "returns": {
@@ -172,7 +176,7 @@
   "_metadata": {
     "scheme_id": "motilal-oswal-midcap",
     "source_url": "https://groww.in/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth",
-    "scrape_timestamp": "2026-06-14T05:19:25.790605Z",
+    "scrape_timestamp": "2026-06-15T05:43:21.185531Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
