@@ -152,7 +152,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 146102.60902147,
-    "launch_date": "2009-12-28T18:30:00.569Z",
+    "launch_date": "2009-12-28T18:30:00.073Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -799,9 +799,9 @@
           "search_id": "motilal-oswal-s-p-500-index-fund-direct-growth"
         },
         {
-          "scheme_name": "Motilal Oswal Asset Allocation Passive FoF Aggressive Direct Growth",
+          "scheme_name": "Motilal Oswal Multi Asset Passive FoF Direct Growth",
           "scheme_code": "148747",
-          "search_id": "motilal-oswal-asset-allocation-passive-fof-aggressive-direct-growth"
+          "search_id": "motilal-oswal-multi-asset-passive-fof-direct-growth"
         },
         {
           "scheme_name": "Motilal Oswal Asset Allocation Passive FoF Conservative Direct Growth",
@@ -1197,9 +1197,9 @@
           "search_id": "motilal-oswal-s-p-500-index-fund-direct-growth"
         },
         {
-          "scheme_name": "Motilal Oswal Asset Allocation Passive FoF Aggressive Direct Growth",
+          "scheme_name": "Motilal Oswal Multi Asset Passive FoF Direct Growth",
           "scheme_code": "148747",
-          "search_id": "motilal-oswal-asset-allocation-passive-fof-aggressive-direct-growth"
+          "search_id": "motilal-oswal-multi-asset-passive-fof-direct-growth"
         },
         {
           "scheme_name": "Motilal Oswal Asset Allocation Passive FoF Conservative Direct Growth",
@@ -1459,19 +1459,19 @@
   },
   "simple_return": {
     "scheme_code": "127042",
-    "return1d": 2.7702510789,
-    "return1w": -0.5184915985,
-    "return1m": 1.0098317076,
-    "return3m": 7.7366742738,
-    "return6m": -9.3800751182,
-    "return9m": -13.0215334247,
-    "return1y": -8.6920492936,
-    "return2y": 3.096414169796,
-    "return3y": 63.702001352603,
-    "return4y": 127.297645675333,
-    "return5y": 165.714946395854,
+    "return1d": 0.1725470163,
+    "return1w": 4.2652791113,
+    "return1m": 2.9034039159,
+    "return3m": 13.4829261997,
+    "return6m": -5.6209644818,
+    "return9m": -10.1470905767,
+    "return1y": -4.333386273,
+    "return2y": 3.83293810653,
+    "return3y": 69.279533714555,
+    "return4y": 145.908468605015,
+    "return5y": 186.015556342554,
     "return7y": null,
-    "return10y": 395.470677147744,
+    "return10y": 417.466954602624,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -1479,7 +1479,7 @@
     "standard_deviation": null,
     "risk_rating": null,
     "risk": null,
-    "return_since_created": 945.676,
+    "return_since_created": 990.277,
     "cat_return3m": null,
     "cat_return6m": null,
     "cat_return1y": 1.9589569430918718,
