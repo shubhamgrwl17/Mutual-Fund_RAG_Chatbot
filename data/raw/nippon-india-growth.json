@@ -174,7 +174,7 @@
     "address": "30th Floor, One Lodha PlaceSenapati Bapat Marg, Lower ParelMumbai Mumbai 400013",
     "phone": "+91 022 6808 7000",
     "aum": 748581.4193074,
-    "launch_date": "1995-06-29T18:30:00.644Z",
+    "launch_date": "1995-06-29T18:30:00.293Z",
     "email": null,
     "rank": "4",
     "description": "Reliance Mutual Fund started their mutual fund on 30/06/1995 and its managing total assets of ₹2,32,169 Cr. Its ranked at 3 as per total assets at end of 30th Sep 2017.",
@@ -225,7 +225,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 12,
+      "stat_1y": 13,
       "stat_3y": 9,
       "stat_5y": 3,
       "stat_all": null,
@@ -265,7 +265,7 @@
       "cat_return_since_launch": null,
       "rank3m": 21,
       "rank6m": 7,
-      "rank1yr": 12,
+      "rank1yr": 13,
       "rank3yr": 9,
       "rank5yr": 3,
       "rank10yr": 3,
@@ -2397,6 +2397,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.82,
+      "as_on_date": "2026-06-25T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.82,
       "as_on_date": "2026-06-24T00:00:00",
