@@ -85,7 +85,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "Motilal Oswal Midcap Fund Direct Growth - Groww",
-  "meta_desc": "Motilal Oswal Midcap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 18.33. Risk is Very High",
+  "meta_desc": "Motilal Oswal Midcap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 18.44. Risk is Very High",
   "meta_robots": "index",
   "amc": "MOTILAL_OSWAL",
   "scheme_code": "127042",
@@ -110,7 +110,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 36458.2077,
-  "expense_ratio": "0.85",
+  "expense_ratio": "0.99",
   "portfolio_turnover": 35,
   "super_category": "Motilal Oswal Midcap Fund",
   "sub_sub_category": "",
@@ -141,8 +141,8 @@
       "scheme_code": "127042",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 0.85%",
-      "analysis_data": "0.85",
+      "analysis_desc": "Lower expense ratio: 0.99%",
+      "analysis_data": "0.99",
       "rating": null
     }
   ],
@@ -152,7 +152,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 146102.60902147,
-    "launch_date": "2009-12-28T18:30:00.602Z",
+    "launch_date": "2009-12-28T18:30:00.895Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -187,9 +187,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": -8.98,
-      "stat_3y": 18.33,
-      "stat_5y": 22.66,
+      "stat_1y": -9.41,
+      "stat_3y": 18.44,
+      "stat_5y": 22.79,
       "stat_all": 20.22,
       "title": "Fund Returns"
     },
@@ -204,7 +204,7 @@
     {
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 52,
-      "stat_3y": 33,
+      "stat_3y": 32,
       "stat_5y": 1,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -213,19 +213,19 @@
   "return_stats": [
     {
       "scheme_code": "127042",
-      "return1d": -0.49,
-      "return1w": -1.51,
-      "return1m": 1.43,
-      "return3m": 12.78,
-      "return6m": -4.82,
+      "return1d": 0.66,
+      "return1w": 0.43,
+      "return1m": 2.1,
+      "return3m": 16.74,
+      "return6m": -4.56,
       "return9m": null,
-      "return1y": -8.98,
+      "return1y": -9.41,
       "return2y": null,
-      "return3y": 18.33,
+      "return3y": 18.44,
       "return4y": null,
-      "return5y": 22.66,
+      "return5y": 22.79,
       "return7y": null,
-      "return10y": 17.46,
+      "return10y": 17.48,
       "return_default": 20.22,
       "mean_return": 5.35,
       "sharpe_ratio": 0.6861808653,
@@ -233,7 +233,7 @@
       "standard_deviation": 20.330693099149475,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 21.2301288417,
+      "return_since_created": 21.2898285444,
       "cat_return3m": 3.790142971673846,
       "cat_return6m": -0.01429769982222222,
       "cat_return1y": 1.9589569430918827,
@@ -241,10 +241,10 @@
       "cat_return5y": 21.52750809939988,
       "cat_return10y": 15.99766834466025,
       "cat_return_since_launch": null,
-      "rank3m": 45,
-      "rank6m": 57,
+      "rank3m": 39,
+      "rank6m": 50,
       "rank1yr": 52,
-      "rank3yr": 33,
+      "rank3yr": 32,
       "rank5yr": 1,
       "rank10yr": 9,
       "index_return1y": -18.4530706158,
@@ -661,8 +661,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 107.8072,
-  "nav_date": "29-Jun-2026",
+  "nav": 108.5221,
+  "nav_date": "30-Jun-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1410,16 +1410,16 @@
     "return1d": null,
     "return1w": null,
     "return1m": null,
-    "return3m": 43.70506384351884,
-    "return6m": 12.854408366433617,
-    "return9m": -1.1894731450819547,
-    "return1y": -4.92233445194027,
-    "return2y": -3.800285688981346,
-    "return3y": 6.410083609453069,
-    "return4y": 13.574880255740563,
-    "return5y": 16.48560180271567,
+    "return3m": 48.75816247351351,
+    "return6m": 15.345279039155418,
+    "return9m": 0.4260701771869199,
+    "return1y": -3.708085211260137,
+    "return2y": -3.1667868167204767,
+    "return3y": 6.843576985182723,
+    "return4y": 13.897436413809949,
+    "return5y": 16.738536309746816,
     "return7y": null,
-    "return10y": 19.504236849021417,
+    "return10y": 19.617608666084752,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -1560,13 +1560,43 @@
   ],
   "historic_fund_expense": [
     {
-      "expense_ratio": 0.85,
+      "expense_ratio": 0.99,
+      "as_on_date": "2026-06-29T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.98,
+      "as_on_date": "2026-06-28T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.98,
+      "as_on_date": "2026-06-27T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.98,
+      "as_on_date": "2026-06-26T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.99,
+      "as_on_date": "2026-06-25T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.98,
       "as_on_date": "2026-06-24T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 1.44,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-23T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
@@ -1578,121 +1608,127 @@
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.74,
+      "expense_ratio": 0.96,
       "as_on_date": "2026-06-21T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.74,
+      "expense_ratio": 0.96,
       "as_on_date": "2026-06-20T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.85,
+      "expense_ratio": 0.96,
       "as_on_date": "2026-06-19T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.83,
+      "expense_ratio": 0.96,
+      "as_on_date": "2026-06-18T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.96,
       "as_on_date": "2026-06-17T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.76,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-16T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-15T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-14T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-13T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.78,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-12T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 1.18,
+      "expense_ratio": 0.98,
       "as_on_date": "2026-06-11T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 1.01,
+      "expense_ratio": 0.98,
       "as_on_date": "2026-06-10T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.78,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-09T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 1.08,
+      "expense_ratio": 0.98,
       "as_on_date": "2026-06-08T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-07T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-06T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-05T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-04T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 1,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-03T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.89,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-02T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
     },
     {
-      "expense_ratio": 0.75,
+      "expense_ratio": 0.97,
       "as_on_date": "2026-06-01T00:00:00",
       "frequency": "Daily",
       "turn_over_ratio": null
@@ -8258,8 +8294,8 @@
       "sub_sub_category": "",
       "aum": 5732.44450393,
       "mean_return": null,
-      "return3y": 24.7,
-      "return1y": 10.84,
+      "return3y": 24.79,
+      "return1y": 10.65,
       "min_investment": 500,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8297,8 +8333,8 @@
       "sub_sub_category": "",
       "aum": 16848.5981,
       "mean_return": 8.89,
-      "return3y": 23.85,
-      "return1y": 4.55,
+      "return3y": 23.93,
+      "return1y": 4.64,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8336,8 +8372,8 @@
       "sub_sub_category": "",
       "aum": 47415.41381524,
       "mean_return": 15.99,
-      "return3y": 22.93,
-      "return1y": 6.84,
+      "return3y": 22.8,
+      "return1y": 6.2,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8375,8 +8411,8 @@
       "sub_sub_category": "",
       "aum": 13686.65832906,
       "mean_return": 3.13,
-      "return3y": 22.17,
-      "return1y": 5.89,
+      "return3y": 22.18,
+      "return1y": 6.09,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -8414,8 +8450,8 @@
       "sub_sub_category": "",
       "aum": 97350.4842,
       "mean_return": 5.62,
-      "return3y": 20.58,
-      "return1y": 5.05,
+      "return3y": 20.57,
+      "return1y": 4.75,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
