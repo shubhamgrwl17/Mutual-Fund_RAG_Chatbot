@@ -152,7 +152,7 @@
     "address": "Unit No.606 - 6th Floor,Windsor Building - Off. CST Road,Kalina, Santacruz (East), Mumbai 400098",
     "phone": "022-67800301 / 1800-2090-777",
     "aum": 224849.86621043,
-    "launch_date": "2007-11-29T18:30:00.098Z",
+    "launch_date": "2007-11-29T18:30:00.658Z",
     "email": null,
     "rank": "13",
     "description": "Mirae Asset Mutual Fund started their mutual fund on 30/11/2007 and its managing total assets of ₹11,044 Cr. Its ranked at 22 as per total assets at end of 30th Sep 2017.",
@@ -203,9 +203,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 9,
-      "stat_3y": 18,
-      "stat_5y": 17,
+      "stat_1y": 7,
+      "stat_3y": 17,
+      "stat_5y": 15,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -243,9 +243,9 @@
       "cat_return_since_launch": null,
       "rank3m": 7,
       "rank6m": 19,
-      "rank1yr": 9,
-      "rank3yr": 18,
-      "rank5yr": 17,
+      "rank1yr": 7,
+      "rank3yr": 17,
+      "rank5yr": 15,
       "rank10yr": null,
       "index_return1y": -18.4530706158,
       "index_return3y": 13.554451639382,
@@ -1383,6 +1383,24 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.9,
+      "as_on_date": "2026-07-05T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.9,
+      "as_on_date": "2026-07-04T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.9,
+      "as_on_date": "2026-07-03T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.9,
       "as_on_date": "2026-07-02T00:00:00",
