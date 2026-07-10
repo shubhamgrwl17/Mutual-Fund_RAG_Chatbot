@@ -11,9 +11,9 @@
   "isin": "INF109K011N7",
   "scheme_code": "120381",
   "description": "This scheme aims to generate long term capital appreciation by investing in diversified midcap stocks portfolio. It will predominantly invest in companies with market capitalization falling between the lowest and the highest market capitalisation among the constituents of Nifty Midcap 100 Index.",
-  "nav": 378.64,
-  "nav_date": "07-Jul-2026",
-  "aum": 7789.34957998,
+  "nav": 378.02,
+  "nav_date": "09-Jul-2026",
+  "aum": 7845.6257562,
   "expense_ratio": "1.13",
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "min_sip_investment": 100,
@@ -105,9 +105,9 @@
     }
   ],
   "returns": {
-    "returns_1y": 11.45,
-    "returns_3y": 24.08,
-    "returns_5y": 18.6,
+    "returns_1y": 11.61,
+    "returns_3y": 23.96,
+    "returns_5y": 18.59,
     "returns_10y": null,
     "returns_since_launch": 18.64
   },
@@ -153,7 +153,7 @@
   "_metadata": {
     "scheme_id": "icici-prudential-midcap",
     "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-07-08T03:58:44.813573Z",
+    "scrape_timestamp": "2026-07-10T04:37:23.229381Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
