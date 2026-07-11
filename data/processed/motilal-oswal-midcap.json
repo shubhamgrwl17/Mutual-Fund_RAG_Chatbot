@@ -11,10 +11,10 @@
   "isin": "INF247L01445",
   "scheme_code": "127042",
   "description": "The scheme seeks to achieve long term capital appreciation by investing in a maximum of 30 quality mid cap companies having long-term competitive advantages and potential for growth.",
-  "nav": 111.2113,
-  "nav_date": "09-Jul-2026",
+  "nav": 113.6371,
+  "nav_date": "10-Jul-2026",
   "aum": 37473.8666,
-  "expense_ratio": "0.96",
+  "expense_ratio": "0.95",
   "exit_load": "Exit load of 1%, if redeemed within 365 days.\r\n",
   "min_sip_investment": 500,
   "max_sip_investment": 999999999,
@@ -29,81 +29,77 @@
   "holdings_top10": [
     {
       "company_name": "One 97 Communications Ltd",
-      "allocation_percent": 7.29,
+      "allocation_percent": 7.34130089,
       "sector": "Industrials"
-    },
-    {
-      "company_name": "Net Receivables",
-      "allocation_percent": 6.63,
-      "sector": "Unspecified"
-    },
-    {
-      "company_name": "Coforge Ltd",
-      "allocation_percent": 6.12,
-      "sector": "Technology"
     },
     {
       "company_name": "Kalyan Jewellers India Ltd",
-      "allocation_percent": 5.98,
+      "allocation_percent": 6.33736579,
       "sector": "Consumer Discretionary"
     },
     {
-      "company_name": "Kei Industries Ltd",
-      "allocation_percent": 5.82,
-      "sector": "Industrials"
+      "company_name": "Coforge Ltd",
+      "allocation_percent": 6.04419054,
+      "sector": "Technology"
     },
     {
       "company_name": "Zomato Ltd",
-      "allocation_percent": 5.8,
+      "allocation_percent": 5.95848975,
       "sector": "Technology"
     },
     {
-      "company_name": "Persistent Systems Ltd",
-      "allocation_percent": 5.74,
-      "sector": "Technology"
+      "company_name": "Kei Industries Ltd",
+      "allocation_percent": 5.60629417,
+      "sector": "Industrials"
     },
     {
       "company_name": "Aditya Birla Capital Ltd",
-      "allocation_percent": 5.23,
+      "allocation_percent": 5.48687815,
       "sector": "Financial"
+    },
+    {
+      "company_name": "Persistent Systems Ltd",
+      "allocation_percent": 4.59101197,
+      "sector": "Technology"
     },
     {
       "company_name": "Billionbrains Garage Ventures Ltd.",
-      "allocation_percent": 4.29,
+      "allocation_percent": 4.56277656,
       "sector": "Financial"
     },
     {
-      "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 4.22,
+      "company_name": "Shriram Transport Finance Company Ltd",
+      "allocation_percent": 3.77962652,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "BSE Ltd",
+      "allocation_percent": 3.61126546,
       "sector": "Financial"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Technology",
-      "allocation_percent": 17.66
+      "sector": "Financial",
+      "allocation_percent": 17.4405
     },
     {
-      "sector": "Financial",
-      "allocation_percent": 13.74
+      "sector": "Technology",
+      "allocation_percent": 16.5937
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 13.11
-    },
-    {
-      "sector": "Unspecified",
-      "allocation_percent": 6.63
+      "allocation_percent": 12.9476
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 5.98
+      "allocation_percent": 6.3374
     }
   ],
   "returns": {
-    "returns_1y": -5.55,
-    "returns_3y": 19.38,
-    "returns_5y": 22.94,
+    "returns_1y": -3.58,
+    "returns_3y": 20.66,
+    "returns_5y": 23.46,
     "returns_10y": null,
     "returns_since_launch": 20.22
   },
@@ -176,7 +172,7 @@
   "_metadata": {
     "scheme_id": "motilal-oswal-midcap",
     "source_url": "https://groww.in/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth",
-    "scrape_timestamp": "2026-07-10T04:37:18.240472Z",
+    "scrape_timestamp": "2026-07-11T03:56:09.769928Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
