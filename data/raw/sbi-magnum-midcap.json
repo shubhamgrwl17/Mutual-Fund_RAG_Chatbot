@@ -160,7 +160,7 @@
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
   "aum": 24126.6941,
-  "expense_ratio": "1.02",
+  "expense_ratio": "1.01",
   "portfolio_turnover": 33,
   "super_category": "SBI Mid Cap Direct Plan-Growth",
   "sub_sub_category": "",
@@ -191,8 +191,8 @@
       "scheme_code": "119716",
       "analysis_type": "PROS",
       "analysis_subject": "expense_analysis",
-      "analysis_desc": "Lower expense ratio: 1.02%",
-      "analysis_data": "1.02",
+      "analysis_desc": "Lower expense ratio: 1.01%",
+      "analysis_data": "1.01",
       "rating": null
     },
     {
@@ -210,7 +210,7 @@
     "address": "9th Floor & Unit no. 1002, 1003 and 1004 of 10th floor,Crescenzo, C-38 & 39, G Block, Bandra Kurla Complex,Bandra (East) Mumbai 400051",
     "phone": "022-61793000 / 1800-425-5425",
     "aum": 1271425.47298395,
-    "launch_date": "1987-06-28T18:30:00.066Z",
+    "launch_date": "1987-06-28T18:30:00.767Z",
     "email": "Customer.Delight@sbimf.com",
     "rank": "1",
     "description": "SBI Mutual Fund started their mutual fund on 29/06/1987 and its managing total assets of ₹1,88,455 Cr. Its ranked at 5 as per total assets at end of 30th Sep 2017.",
@@ -261,9 +261,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 41,
+      "stat_1y": 40,
       "stat_3y": 35,
-      "stat_5y": 21,
+      "stat_5y": 22,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -301,9 +301,9 @@
       "cat_return_since_launch": null,
       "rank3m": 43,
       "rank6m": 43,
-      "rank1yr": 39,
+      "rank1yr": 40,
       "rank3yr": 35,
-      "rank5yr": 21,
+      "rank5yr": 22,
       "rank10yr": 16,
       "index_return1y": -14.300076954,
       "index_return3y": 16.568904908224,
@@ -1607,6 +1607,24 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.01,
+      "as_on_date": "2026-07-12T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.01,
+      "as_on_date": "2026-07-11T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 1.01,
+      "as_on_date": "2026-07-10T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.02,
       "as_on_date": "2026-07-09T00:00:00",
@@ -8547,7 +8565,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.06",
+      "expense_ratio": "1.05",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
