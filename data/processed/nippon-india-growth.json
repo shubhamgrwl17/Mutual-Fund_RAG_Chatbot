@@ -11,10 +11,10 @@
   "isin": "INF204K01E54",
   "scheme_code": "118668",
   "description": "The scheme aims at long term growth of capital through research based investment approach. The funds will be invested in Equity and equity related instruments ,and there will be an exposure to debt and money market instruments also.",
-  "nav": 4999.6424,
-  "nav_date": "10-Jul-2026",
+  "nav": 4996.3095,
+  "nav_date": "15-Jul-2026",
   "aum": 49169.103,
-  "expense_ratio": "0.84",
+  "expense_ratio": "0.81",
   "exit_load": "Exit load of 1% if redeemed within 1 months",
   "min_sip_investment": 100,
   "max_sip_investment": 999999999,
@@ -97,9 +97,9 @@
     }
   ],
   "returns": {
-    "returns_1y": 9.6,
-    "returns_3y": 23.17,
-    "returns_5y": 21.07,
+    "returns_1y": 8.78,
+    "returns_3y": 22.57,
+    "returns_5y": 20.46,
     "returns_10y": null,
     "returns_since_launch": 15.84
   },
@@ -158,7 +158,7 @@
   "_metadata": {
     "scheme_id": "nippon-india-growth",
     "source_url": "https://groww.in/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth",
-    "scrape_timestamp": "2026-07-13T04:12:07.339250Z",
+    "scrape_timestamp": "2026-07-16T03:50:29.322665Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

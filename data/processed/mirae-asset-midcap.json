@@ -11,9 +11,9 @@
   "isin": "INF769K01FA9",
   "scheme_code": "147445",
   "description": "The scheme seeks to provide long-term capital appreciation from a portfolio investing predominantly in Indian equity and equity related securities of midcap companies. From time to time, the fund manager may also participate in other Indian equities and equity related securities for optimal portfolio construction.",
-  "nav": 43.836,
-  "nav_date": "10-Jul-2026",
-  "aum": 19002.6628,
+  "nav": 43.858,
+  "nav_date": "15-Jul-2026",
+  "aum": 19542.5581,
   "expense_ratio": "0.9",
   "exit_load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 years.",
   "min_sip_investment": 99,
@@ -28,86 +28,82 @@
   "stamp_duty": "0.005% (from July 1st, 2020)",
   "holdings_top10": [
     {
-      "company_name": "Indusind Bank Ltd",
-      "allocation_percent": 3.61220513,
-      "sector": "Financial"
-    },
-    {
       "company_name": "Laurus Labs Ltd",
-      "allocation_percent": 3.45227004,
+      "allocation_percent": 3.67085319,
       "sector": "Healthcare"
-    },
-    {
-      "company_name": "Steel Authority Of India Ltd",
-      "allocation_percent": 3.37498431,
-      "sector": "Materials"
     },
     {
       "company_name": "Lupin Ltd",
-      "allocation_percent": 3.29894686,
+      "allocation_percent": 3.42183165,
       "sector": "Healthcare"
     },
     {
+      "company_name": "Indusind Bank Ltd",
+      "allocation_percent": 3.20124903,
+      "sector": "Financial"
+    },
+    {
       "company_name": "Tata Communications Ltd",
-      "allocation_percent": 3.26710028,
+      "allocation_percent": 3.07839929,
       "sector": "Technology"
     },
     {
       "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 3.08314989,
+      "allocation_percent": 2.99603689,
       "sector": "Consumer Discretionary"
-    },
-    {
-      "company_name": "Delhivery Ltd",
-      "allocation_percent": 2.9259992,
-      "sector": "Industrials"
-    },
-    {
-      "company_name": "PB Fintech Ltd",
-      "allocation_percent": 2.84148197,
-      "sector": "Financial"
     },
     {
       "company_name": "Hero Motocorp Ltd",
-      "allocation_percent": 2.78217096,
+      "allocation_percent": 2.93115405,
       "sector": "Consumer Discretionary"
     },
     {
-      "company_name": "Bharat Heavy Electricals Ltd",
-      "allocation_percent": 2.78020825,
+      "company_name": "HDB FINANCIAL SERVICES LIMITED EQ",
+      "allocation_percent": 2.8602696,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "The Federal Bank Ltd",
+      "allocation_percent": 2.84670905,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Delhivery Ltd",
+      "allocation_percent": 2.83025821,
       "sector": "Industrials"
+    },
+    {
+      "company_name": "FSN E-Commerce Ventures Ltd",
+      "allocation_percent": 2.8133964,
+      "sector": "Consumer Discretionary"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Healthcare",
-      "allocation_percent": 6.7512
-    },
-    {
       "sector": "Financial",
-      "allocation_percent": 6.4537
+      "allocation_percent": 8.9082
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 5.8653
+      "allocation_percent": 8.7406
     },
     {
-      "sector": "Industrials",
-      "allocation_percent": 5.7062
-    },
-    {
-      "sector": "Materials",
-      "allocation_percent": 3.375
+      "sector": "Healthcare",
+      "allocation_percent": 7.0927
     },
     {
       "sector": "Technology",
-      "allocation_percent": 3.2671
+      "allocation_percent": 3.0784
+    },
+    {
+      "sector": "Industrials",
+      "allocation_percent": 2.8303
     }
   ],
   "returns": {
-    "returns_1y": 11.19,
-    "returns_3y": 20.34,
-    "returns_5y": 17.72,
+    "returns_1y": 10.2,
+    "returns_3y": 19.65,
+    "returns_5y": 17.28,
     "returns_10y": null,
     "returns_since_launch": 39.05
   },
@@ -144,7 +140,7 @@
   "_metadata": {
     "scheme_id": "mirae-asset-midcap",
     "source_url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-07-13T04:12:12.347256Z",
+    "scrape_timestamp": "2026-07-16T03:50:34.352201Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
