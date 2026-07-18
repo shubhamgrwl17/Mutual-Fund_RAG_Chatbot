@@ -175,7 +175,7 @@
       "scheme_code": "120381",
       "analysis_type": "CONS",
       "analysis_subject": "c_return_analysis",
-      "analysis_desc": "5Y annualised returns lower than category average by 3.28%",
+      "analysis_desc": "5Y annualised returns lower than category average by 3.44%",
       "analysis_data": "c_return_analysis",
       "rating": null
     },
@@ -198,6 +198,14 @@
     {
       "scheme_code": "120381",
       "analysis_type": "PROS",
+      "analysis_subject": "rank_analysis",
+      "analysis_desc": "1Y category rank: 4, 3Y category rank: 4",
+      "analysis_data": "rank_analysis",
+      "rating": null
+    },
+    {
+      "scheme_code": "120381",
+      "analysis_type": "PROS",
       "analysis_subject": "alpha_analysis",
       "analysis_desc": "Higher alpha: 4.67 \nThe fund has generated returns higher than benchmark - NIFTY Midcap 150 Total Return Index - in the last 3Y ",
       "analysis_data": "4.67381530907212",
@@ -210,7 +218,7 @@
     "address": "One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051",
     "phone": null,
     "aum": 1118214.70383882,
-    "launch_date": "1993-10-11T18:30:00.460Z",
+    "launch_date": "1993-10-11T18:30:00.451Z",
     "email": null,
     "rank": "3",
     "description": "ICICI Prudential Mutual Fund started their mutual fund on 13/10/1993 and its managing total assets of ₹2,79,369 Cr. Its ranked at 1 as per total assets at end of 30th Sep 2017.",
@@ -245,9 +253,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 12.5,
-      "stat_3y": 24.02,
-      "stat_5y": 18.25,
+      "stat_1y": 11.43,
+      "stat_3y": 23.67,
+      "stat_5y": 18.09,
       "stat_all": 18.64,
       "title": "Fund Returns"
     },
@@ -261,7 +269,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 5,
+      "stat_1y": 4,
       "stat_3y": 4,
       "stat_5y": 10,
       "stat_all": null,
@@ -1489,8 +1497,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 382.23,
-  "nav_date": "16-Jul-2026",
+  "nav": 379.8,
+  "nav_date": "17-Jul-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1933,6 +1941,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.13,
+      "as_on_date": "2026-07-16T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.13,
       "as_on_date": "2026-07-15T00:00:00",
@@ -9831,8 +9845,8 @@
       "sub_sub_category": "",
       "aum": 6932.98636303,
       "mean_return": null,
-      "return3y": 24.54,
-      "return1y": 13.69,
+      "return3y": 24.3,
+      "return1y": 12.99,
       "min_investment": 500,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9870,8 +9884,8 @@
       "sub_sub_category": "",
       "aum": 17748.3229,
       "mean_return": 8.89,
-      "return3y": 23.79,
-      "return1y": 6.57,
+      "return3y": 23.66,
+      "return1y": 6.61,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9909,8 +9923,8 @@
       "sub_sub_category": "",
       "aum": 49169.103,
       "mean_return": 15.99,
-      "return3y": 22.32,
-      "return1y": 8.06,
+      "return3y": 22.09,
+      "return1y": 7.47,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9948,8 +9962,8 @@
       "sub_sub_category": "",
       "aum": 14026.06687061,
       "mean_return": 3.13,
-      "return3y": 22,
-      "return1y": 7.76,
+      "return3y": 21.73,
+      "return1y": 7.3,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -9970,7 +9984,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/sundaram_groww.png",
       "groww_scheme_code": "INF903J01MJ3",
-      "expense_ratio": "1.06",
+      "expense_ratio": "1.05",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -9987,8 +10001,8 @@
       "sub_sub_category": "",
       "aum": 100858.3136,
       "mean_return": 5.62,
-      "return3y": 20.2,
-      "return1y": 4.96,
+      "return3y": 20.05,
+      "return1y": 4.76,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
