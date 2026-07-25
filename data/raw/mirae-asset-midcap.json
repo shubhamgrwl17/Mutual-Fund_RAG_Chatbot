@@ -141,7 +141,7 @@
       "scheme_code": "147445",
       "analysis_type": "PROS",
       "analysis_subject": "p_return_analysis",
-      "analysis_desc": "1Y annualised returns higher than category average by 5.85%",
+      "analysis_desc": "1Y annualised returns higher than category average by 5.96%",
       "analysis_data": "p_return_analysis",
       "rating": null
     }
@@ -152,7 +152,7 @@
     "address": "Unit No.606 - 6th Floor,Windsor Building - Off. CST Road,Kalina, Santacruz (East), Mumbai 400098",
     "phone": "022-67800301 / 1800-2090-777",
     "aum": 227268.559,
-    "launch_date": "2007-11-29T18:30:00.452Z",
+    "launch_date": "2007-11-29T18:30:00.064Z",
     "email": null,
     "rank": "13",
     "description": "Mirae Asset Mutual Fund started their mutual fund on 30/11/2007 and its managing total assets of ₹11,044 Cr. Its ranked at 22 as per total assets at end of 30th Sep 2017.",
@@ -187,9 +187,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 7.81,
-      "stat_3y": 18.62,
-      "stat_5y": 16.76,
+      "stat_1y": 7.92,
+      "stat_3y": 18.57,
+      "stat_5y": 16.68,
       "stat_all": 39.05,
       "title": "Fund Returns"
     },
@@ -205,7 +205,7 @@
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 8,
       "stat_3y": 18,
-      "stat_5y": 15,
+      "stat_5y": 16,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -1221,8 +1221,8 @@
       "stock_search_id": "au-small-finance-bank-ltd"
     }
   ],
-  "nav": 43.029,
-  "nav_date": "23-Jul-2026",
+  "nav": 42.891,
+  "nav_date": "24-Jul-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1397,6 +1397,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.91,
+      "as_on_date": "2026-07-23T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.91,
       "as_on_date": "2026-07-22T00:00:00",
@@ -9389,8 +9395,8 @@
       "sub_sub_category": "",
       "aum": 6932.98636303,
       "mean_return": null,
-      "return3y": 23.58,
-      "return1y": 11.64,
+      "return3y": 23.5,
+      "return1y": 12.34,
       "min_investment": 500,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9428,8 +9434,8 @@
       "sub_sub_category": "",
       "aum": 17748.3229,
       "mean_return": 8.89,
-      "return3y": 23.26,
-      "return1y": 5.91,
+      "return3y": 23.16,
+      "return1y": 6.56,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9467,8 +9473,8 @@
       "sub_sub_category": "",
       "aum": 49169.103,
       "mean_return": 15.99,
-      "return3y": 21.61,
-      "return1y": 6.24,
+      "return3y": 21.52,
+      "return1y": 6.3,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9506,8 +9512,8 @@
       "sub_sub_category": "",
       "aum": 14026.06687061,
       "mean_return": 3.13,
-      "return3y": 21.4,
-      "return1y": 7.13,
+      "return3y": 21.28,
+      "return1y": 6.89,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -9545,8 +9551,8 @@
       "sub_sub_category": "",
       "aum": 100858.3136,
       "mean_return": 5.62,
-      "return3y": 19.47,
-      "return1y": 4.16,
+      "return3y": 19.4,
+      "return1y": 4.83,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,

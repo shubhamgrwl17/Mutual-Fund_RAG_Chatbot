@@ -175,7 +175,7 @@
       "scheme_code": "120381",
       "analysis_type": "CONS",
       "analysis_subject": "c_return_analysis",
-      "analysis_desc": "5Y annualised returns lower than category average by 3.56%",
+      "analysis_desc": "5Y annualised returns lower than category average by 3.63%",
       "analysis_data": "c_return_analysis",
       "rating": null
     },
@@ -210,7 +210,7 @@
     "address": "One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051",
     "phone": null,
     "aum": 1118214.70383882,
-    "launch_date": "1993-10-11T18:30:00.153Z",
+    "launch_date": "1993-10-11T18:30:00.090Z",
     "email": null,
     "rank": "3",
     "description": "ICICI Prudential Mutual Fund started their mutual fund on 13/10/1993 and its managing total assets of ₹2,79,369 Cr. Its ranked at 1 as per total assets at end of 30th Sep 2017.",
@@ -245,9 +245,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 9.59,
-      "stat_3y": 23.25,
-      "stat_5y": 17.97,
+      "stat_1y": 9.81,
+      "stat_3y": 23.19,
+      "stat_5y": 17.9,
       "stat_all": 18.64,
       "title": "Fund Returns"
     },
@@ -262,8 +262,8 @@
     {
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 5,
-      "stat_3y": 4,
-      "stat_5y": 10,
+      "stat_3y": 5,
+      "stat_5y": 9,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -1489,8 +1489,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 375.09,
-  "nav_date": "23-Jul-2026",
+  "nav": 374.08,
+  "nav_date": "24-Jul-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1933,6 +1933,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.13,
+      "as_on_date": "2026-07-23T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.13,
       "as_on_date": "2026-07-22T00:00:00",
@@ -9873,8 +9879,8 @@
       "sub_sub_category": "",
       "aum": 6932.98636303,
       "mean_return": null,
-      "return3y": 23.58,
-      "return1y": 11.64,
+      "return3y": 23.5,
+      "return1y": 12.34,
       "min_investment": 500,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9912,8 +9918,8 @@
       "sub_sub_category": "",
       "aum": 17748.3229,
       "mean_return": 8.89,
-      "return3y": 23.26,
-      "return1y": 5.91,
+      "return3y": 23.16,
+      "return1y": 6.56,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9951,8 +9957,8 @@
       "sub_sub_category": "",
       "aum": 49169.103,
       "mean_return": 15.99,
-      "return3y": 21.61,
-      "return1y": 6.24,
+      "return3y": 21.52,
+      "return1y": 6.3,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9990,8 +9996,8 @@
       "sub_sub_category": "",
       "aum": 14026.06687061,
       "mean_return": 3.13,
-      "return3y": 21.4,
-      "return1y": 7.13,
+      "return3y": 21.28,
+      "return1y": 6.89,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -10029,8 +10035,8 @@
       "sub_sub_category": "",
       "aum": 100858.3136,
       "mean_return": 5.62,
-      "return3y": 19.47,
-      "return1y": 4.16,
+      "return3y": 19.4,
+      "return1y": 4.83,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
