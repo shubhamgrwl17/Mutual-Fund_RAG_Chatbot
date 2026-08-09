@@ -160,7 +160,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 150688.37525549,
-    "launch_date": "2009-12-28T18:30:00.727Z",
+    "launch_date": "2009-12-28T18:30:00.716Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -212,7 +212,7 @@
     {
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 45,
-      "stat_3y": 13,
+      "stat_3y": 11,
       "stat_5y": 1,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -252,7 +252,7 @@
       "rank3m": 2,
       "rank6m": 12,
       "rank1yr": 45,
-      "rank3yr": 13,
+      "rank3yr": 11,
       "rank5yr": 1,
       "rank10yr": 8,
       "rank_count3m": null,
@@ -1662,6 +1662,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.94,
+      "as_on_date": "2026-08-07T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.94,
       "as_on_date": "2026-08-06T00:00:00",
