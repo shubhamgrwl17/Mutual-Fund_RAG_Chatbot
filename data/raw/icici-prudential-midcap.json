@@ -134,16 +134,16 @@
   "allotment_date": null,
   "nfo_risk": "Moderately High",
   "nfo_image_url": null,
-  "meta_title": "ICICI Prudential Midcap Direct Plan Growth - Groww",
-  "meta_desc": "ICICI Prudential Midcap Direct Plan Growth is Mid Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 24.03. Risk is Very High",
+  "meta_title": "ICICI Prudential Mid Cap Direct Plan Growth - Groww",
+  "meta_desc": "ICICI Prudential Mid Cap Direct Plan Growth is Mid Cap Equity mutual fund with risk-reward rating of 4/10. It has track record of 13 years, with three year return of 24.43. Risk is Very High",
   "meta_robots": "index",
   "amc": "ICICI_PRUDENTIAL",
   "scheme_code": "120381",
   "direct_scheme_code": "120381",
   "regular_search_id": "icici-prudential-midcap-fund-growth",
-  "scheme_name": "ICICI Prudential Midcap Direct Plan Growth",
+  "scheme_name": "ICICI Prudential Mid Cap Direct Plan Growth",
   "registrar_agent": "CAMS",
-  "search_id": "icici-prudential-midcap-fund-direct-growth",
+  "search_id": "icici-prudential-mid-cap-direct-plan-growth",
   "min_investment_amount": 5000,
   "fund_house": "ICICI Prudential Mutual Fund",
   "fund_manager": "Mrinal Singh, Mittul Kalawadia",
@@ -162,7 +162,7 @@
   "aum": 7953.69326479,
   "expense_ratio": "1.11",
   "portfolio_turnover": 75,
-  "super_category": "ICICI Prudential Midcap Direct Plan-Growth",
+  "super_category": "ICICI Prudential Mid Cap Direct Plan-Growth",
   "sub_sub_category": "",
   "min_sip_investment": 100,
   "max_sip_investment": 999999999,
@@ -175,7 +175,7 @@
       "scheme_code": "120381",
       "analysis_type": "CONS",
       "analysis_subject": "c_return_analysis",
-      "analysis_desc": "5Y annualised returns lower than category average by 1.97%",
+      "analysis_desc": "5Y annualised returns lower than category average by 1.87%",
       "analysis_data": "c_return_analysis",
       "rating": null
     },
@@ -218,7 +218,7 @@
     "address": "One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051",
     "phone": null,
     "aum": 1156099.67345825,
-    "launch_date": "1993-10-11T18:30:00.286Z",
+    "launch_date": "1993-10-11T18:30:00.430Z",
     "email": null,
     "rank": "3",
     "description": "ICICI Prudential Mutual Fund started their mutual fund on 13/10/1993 and its managing total assets of ₹2,79,369 Cr. Its ranked at 1 as per total assets at end of 30th Sep 2017.",
@@ -253,9 +253,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 17.97,
-      "stat_3y": 24.03,
-      "stat_5y": 19.66,
+      "stat_1y": 18.2,
+      "stat_3y": 24.43,
+      "stat_5y": 19.67,
       "stat_all": 18.64,
       "title": "Fund Returns"
     },
@@ -279,19 +279,19 @@
   "return_stats": [
     {
       "scheme_code": "120381",
-      "return1d": 0.47,
-      "return1w": 0.8,
-      "return1m": 5.86,
-      "return3m": 3.95,
-      "return6m": 10.09,
+      "return1d": 0.22,
+      "return1w": 1.04,
+      "return1m": 6.09,
+      "return3m": 3.24,
+      "return6m": 9.15,
       "return9m": null,
-      "return1y": 17.97,
+      "return1y": 18.2,
       "return2y": null,
-      "return3y": 24.03,
+      "return3y": 24.43,
       "return4y": null,
-      "return5y": 19.66,
+      "return5y": 19.67,
       "return7y": null,
-      "return10y": 17.65,
+      "return10y": 17.73,
       "return_default": 18.64,
       "mean_return": 6.19,
       "sharpe_ratio": 0.8972258931,
@@ -299,7 +299,7 @@
       "standard_deviation": 18.53488702472333,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 19.5851830993,
+      "return_since_created": 19.5998946493,
       "cat_return3m": 3.790142971673846,
       "cat_return6m": -0.01429769982222222,
       "cat_return1y": 1.9589569430918827,
@@ -1503,8 +1503,8 @@
       "stock_search_id": null
     }
   ],
-  "nav": 395.99,
-  "nav_date": "24-Aug-2026",
+  "nav": 396.85,
+  "nav_date": "25-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -1520,9 +1520,9 @@
       "experience": "She joined ICICI Prudential AMC Limited in September 2016.",
       "funds_managed": [
         {
-          "scheme_name": "ICICI Prudential Midcap Direct Plan Growth",
+          "scheme_name": "ICICI Prudential Mid Cap Direct Plan Growth",
           "scheme_code": "120381",
-          "search_id": "icici-prudential-midcap-fund-direct-growth"
+          "search_id": "icici-prudential-mid-cap-direct-plan-growth"
         },
         {
           "scheme_name": "ICICI Prudential Large & Mid Cap Fund Direct Plan Growth",
@@ -1545,14 +1545,14 @@
           "search_id": "icici-prudential-banking-and-financial-services-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Multicap Fund Direct Plan Growth",
+          "scheme_name": "ICICI Prudential Multi Cap Fund Direct Growth",
           "scheme_code": "120599",
-          "search_id": "icici-prudential-multicap-fund-direct-growth"
+          "search_id": "icici-prudential-multi-cap-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Multi Asset Fund Direct Growth",
+          "scheme_name": "ICICI Prudential Multi Asset Allocation Fund Direct Growth",
           "scheme_code": "120334",
-          "search_id": "icici-prudential-dynamic-plan-direct-growth"
+          "search_id": "icici-prudential-multi-asset-allocation-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential Large Cap Fund Direct Growth",
@@ -1570,9 +1570,9 @@
           "search_id": "icici-prudential-infrastructure-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Focused Equity Fund Direct Growth",
+          "scheme_name": "ICICI Prudential Focused Fund Direct Growth",
           "scheme_code": "120722",
-          "search_id": "icici-prudential-select-large-cap-fund-direct-growth"
+          "search_id": "icici-prudential-focused-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential Liquid Fund Direct Plan Growth",
@@ -1580,9 +1580,9 @@
           "search_id": "icici-prudential-liquid-fund-direct-plan-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Regular Savings Fund Direct Growth",
+          "scheme_name": "ICICI Prudential Conservative Hybrid Fund Direct Growth",
           "scheme_code": "120616",
-          "search_id": "icici-prudential-regular-savings-fund-direct-growth"
+          "search_id": "icici-prudential-conservative-hybrid-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential Exports and Services Fund Direct Growth",
@@ -1600,14 +1600,14 @@
           "search_id": "icici-prudential-dynamic-asset-allocation-active-fof-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Equity & Debt Fund Direct Growth",
+          "scheme_name": "ICICI Prudential Aggressive Hybrid Fund Direct Growth",
           "scheme_code": "120251",
-          "search_id": "icici-prudential-balanced-direct-growth"
+          "search_id": "icici-prudential-aggressive-hybrid-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential ELSS Tax Saver Direct Plan Growth",
+          "scheme_name": "ICICI Prudential ELSS Tax Saver Fund Direct Growth",
           "scheme_code": "120592",
-          "search_id": "icici-prudential-elss-tax-saver-direct-plan-growth"
+          "search_id": "icici-prudential-elss-tax-saver-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential Children's Fund Direct Growth",
@@ -1655,9 +1655,9 @@
           "search_id": "icici-prudential-global-stable-equity-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Dividend Yield Equity Fund Direct Growth",
+          "scheme_name": "ICICI Prudential Dividend Yield Fund Direct Growth",
           "scheme_code": "129312",
-          "search_id": "icici-prudential-dividend-yield-equity-fund-direct-growth"
+          "search_id": "icici-prudential-dividend-yield-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential Long Term Wealth Enhancement Fund Direct Growth",
@@ -1700,9 +1700,9 @@
           "search_id": "icici-prudential-commodities-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund Direct Growth",
+          "scheme_name": "ICICI Prudential Healthcare Fund Direct Growth",
           "scheme_code": "143874",
-          "search_id": "icici-prudential-pharma-healthcare-and-diagnostics-(p.h.d)-fund-direct-growth"
+          "search_id": "icici-prudential-healthcare-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FoF Direct Growth",
@@ -1720,9 +1720,9 @@
           "search_id": "icici-prudential-esg-exclusionary-strategy-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Flexicap Fund Direct Growth",
+          "scheme_name": "ICICI Prudential Flexi Cap Fund Direct Growth",
           "scheme_code": "148990",
-          "search_id": "icici-prudential-flexicap-fund-direct-growth"
+          "search_id": "icici-prudential-flexi-cap-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential India Opportunities Fund Direct Growth",
@@ -1776,9 +1776,9 @@
       "experience": "Prior to joining ICICI Prudential Mutual Fund, he has worked with East Bridge Advisors Pvt. Ltd, Nomura Financial Advisory & Securities, Merrill Lynch and Cypress Semiconductors.",
       "funds_managed": [
         {
-          "scheme_name": "ICICI Prudential Midcap Direct Plan Growth",
+          "scheme_name": "ICICI Prudential Mid Cap Direct Plan Growth",
           "scheme_code": "120381",
-          "search_id": "icici-prudential-midcap-fund-direct-growth"
+          "search_id": "icici-prudential-mid-cap-direct-plan-growth"
         },
         {
           "scheme_name": "ICICI Prudential Large & Mid Cap Fund Direct Plan Growth",
@@ -1786,9 +1786,9 @@
           "search_id": "icici-prudential-top-100-fund-direct-growth"
         },
         {
-          "scheme_name": "ICICI Prudential Multicap Fund Direct Plan Growth",
+          "scheme_name": "ICICI Prudential Multi Cap Fund Direct Growth",
           "scheme_code": "120599",
-          "search_id": "icici-prudential-multicap-fund-direct-growth"
+          "search_id": "icici-prudential-multi-cap-fund-direct-growth"
         },
         {
           "scheme_name": "ICICI Prudential Commodities Fund Direct Growth",
@@ -1959,6 +1959,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 1.11,
+      "as_on_date": "2026-08-24T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 1.11,
       "as_on_date": "2026-08-23T00:00:00",
@@ -8937,7 +8943,7 @@
   "unique_groww_scheme_code": null,
   "swp_frequencies": null,
   "blocked_reason": "The fund house has blocked one-time investments in this fund. You can explore similar funds from the ‘Peer Comparison’ section.",
-  "fund_name": "ICICI Prudential Midcap Direct Plan-Growth",
+  "fund_name": "ICICI Prudential Mid Cap Direct Plan-Growth",
   "primary_action": null,
   "actions": [],
   "is_additional_check_req": false,
@@ -8951,8 +8957,8 @@
       "sub_sub_category": "",
       "aum": 6792.14244992,
       "mean_return": null,
-      "return3y": 23.88,
-      "return1y": 16.67,
+      "return3y": 24.19,
+      "return1y": 17,
       "min_investment": 500,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8990,8 +8996,8 @@
       "sub_sub_category": "",
       "aum": 18693.4923,
       "mean_return": 8.89,
-      "return3y": 22.87,
-      "return1y": 9.82,
+      "return3y": 23.32,
+      "return1y": 10.34,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9029,8 +9035,8 @@
       "sub_sub_category": "",
       "aum": 14504.3585905,
       "mean_return": 3.13,
-      "return3y": 20.97,
-      "return1y": 10.44,
+      "return3y": 21.33,
+      "return1y": 10.83,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -9068,8 +9074,8 @@
       "sub_sub_category": "",
       "aum": 50750.80584713,
       "mean_return": 15.99,
-      "return3y": 20.84,
-      "return1y": 10.57,
+      "return3y": 21.28,
+      "return1y": 11.19,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -9090,7 +9096,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/reliance_groww.png",
       "groww_scheme_code": "INF204K01E54",
-      "expense_ratio": "0.79",
+      "expense_ratio": "0.78",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -9107,8 +9113,8 @@
       "sub_sub_category": "",
       "aum": 105142.6943,
       "mean_return": 5.62,
-      "return3y": 19.34,
-      "return1y": 10.72,
+      "return3y": 19.73,
+      "return1y": 11.05,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
