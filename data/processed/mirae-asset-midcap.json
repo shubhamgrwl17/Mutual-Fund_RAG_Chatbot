@@ -11,10 +11,10 @@
   "isin": "INF769K01FA9",
   "scheme_code": "147445",
   "description": "The scheme seeks to provide long-term capital appreciation from a portfolio investing predominantly in Indian equity and equity related securities of midcap companies. From time to time, the fund manager may also participate in other Indian equities and equity related securities for optimal portfolio construction.",
-  "nav": 44.847,
-  "nav_date": "25-Aug-2026",
+  "nav": 45.048,
+  "nav_date": "26-Aug-2026",
   "aum": 20267.6347,
-  "expense_ratio": "0.96",
+  "expense_ratio": "0.95",
   "exit_load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 years.",
   "min_sip_investment": 99,
   "max_sip_investment": 999999999,
@@ -29,81 +29,85 @@
   "holdings_top10": [
     {
       "company_name": "Laurus Labs Ltd",
-      "allocation_percent": 3.67085319,
+      "allocation_percent": 4.11951479,
       "sector": "Healthcare"
     },
     {
       "company_name": "Lupin Ltd",
-      "allocation_percent": 3.42183165,
+      "allocation_percent": 3.29395947,
       "sector": "Healthcare"
     },
     {
       "company_name": "Indusind Bank Ltd",
-      "allocation_percent": 3.20124903,
+      "allocation_percent": 3.26701744,
       "sector": "Financial"
     },
     {
-      "company_name": "Tata Communications Ltd",
-      "allocation_percent": 3.07839929,
+      "company_name": "Persistent Systems Ltd",
+      "allocation_percent": 3.19994268,
       "sector": "Technology"
     },
     {
+      "company_name": "Steel Authority Of India Ltd",
+      "allocation_percent": 3.1642581,
+      "sector": "Materials"
+    },
+    {
+      "company_name": "PB Fintech Ltd",
+      "allocation_percent": 2.99811292,
+      "sector": "Financial"
+    },
+    {
       "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 2.99603689,
+      "allocation_percent": 2.96390079,
       "sector": "Consumer Discretionary"
     },
     {
       "company_name": "Hero Motocorp Ltd",
-      "allocation_percent": 2.93115405,
+      "allocation_percent": 2.86549506,
       "sector": "Consumer Discretionary"
     },
     {
-      "company_name": "HDB FINANCIAL SERVICES LIMITED EQ",
-      "allocation_percent": 2.8602696,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "The Federal Bank Ltd",
-      "allocation_percent": 2.84670905,
-      "sector": "Financial"
-    },
-    {
       "company_name": "Delhivery Ltd",
-      "allocation_percent": 2.83025821,
+      "allocation_percent": 2.78623912,
       "sector": "Industrials"
     },
     {
-      "company_name": "FSN E-Commerce Ventures Ltd",
-      "allocation_percent": 2.8133964,
+      "company_name": "Dixon Technologies (India) Ltd",
+      "allocation_percent": 2.75127743,
       "sector": "Consumer Discretionary"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Financial",
-      "allocation_percent": 8.9082
-    },
-    {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 8.7406
+      "allocation_percent": 8.5807
     },
     {
       "sector": "Healthcare",
-      "allocation_percent": 7.0927
+      "allocation_percent": 7.4135
+    },
+    {
+      "sector": "Financial",
+      "allocation_percent": 6.2651
     },
     {
       "sector": "Technology",
-      "allocation_percent": 3.0784
+      "allocation_percent": 3.1999
+    },
+    {
+      "sector": "Materials",
+      "allocation_percent": 3.1643
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 2.8303
+      "allocation_percent": 2.7862
     }
   ],
   "returns": {
-    "returns_1y": 13.75,
-    "returns_3y": 18.37,
-    "returns_5y": 17.62,
+    "returns_1y": 15.76,
+    "returns_3y": 18.53,
+    "returns_5y": 17.78,
     "returns_10y": null,
     "returns_since_launch": 39.05
   },
@@ -140,7 +144,7 @@
   "_metadata": {
     "scheme_id": "mirae-asset-midcap",
     "source_url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-08-26T02:11:51.693498Z",
+    "scrape_timestamp": "2026-08-27T10:13:21.204970Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

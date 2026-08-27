@@ -11,8 +11,8 @@
   "isin": "INF204K01E54",
   "scheme_code": "118668",
   "description": "The scheme aims at long term growth of capital through research based investment approach. The funds will be invested in Equity and equity related instruments ,and there will be an exposure to debt and money market instruments also.",
-  "nav": 5077.5711,
-  "nav_date": "25-Aug-2026",
+  "nav": 5064.0809,
+  "nav_date": "26-Aug-2026",
   "aum": 50750.80584713,
   "expense_ratio": "0.78",
   "exit_load": "Exit load of 1% if redeemed within 1 months",
@@ -28,78 +28,78 @@
   "stamp_duty": "0.005% (from July 1st, 2020)",
   "holdings_top10": [
     {
-      "company_name": "BSE Ltd",
-      "allocation_percent": 2.99,
-      "sector": "Financial"
-    },
-    {
       "company_name": "The Federal Bank Ltd",
-      "allocation_percent": 2.75,
+      "allocation_percent": 2.89903772,
       "sector": "Financial"
-    },
-    {
-      "company_name": "Fortis Healthcare Ltd",
-      "allocation_percent": 2.66,
-      "sector": "Healthcare"
     },
     {
       "company_name": "AU Small Finance Bank Ltd",
-      "allocation_percent": 2.65,
+      "allocation_percent": 2.7446047,
       "sector": "Financial"
     },
     {
-      "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 2.37,
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "company_name": "Zomato Ltd",
-      "allocation_percent": 2.21,
-      "sector": "Technology"
-    },
-    {
-      "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 2.19,
+      "company_name": "BSE Ltd",
+      "allocation_percent": 2.73011626,
       "sector": "Financial"
     },
     {
       "company_name": "Info Edge (India) Ltd",
-      "allocation_percent": 2.13,
+      "allocation_percent": 2.61366964,
       "sector": "Technology"
     },
     {
+      "company_name": "Fortis Healthcare Ltd",
+      "allocation_percent": 2.54856762,
+      "sector": "Healthcare"
+    },
+    {
       "company_name": "REC Ltd",
-      "allocation_percent": 1.99,
+      "allocation_percent": 2.50385345,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Zomato Ltd",
+      "allocation_percent": 2.38380452,
+      "sector": "Technology"
+    },
+    {
+      "company_name": "Bharat Forge Ltd",
+      "allocation_percent": 2.3597117,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "company_name": "Multi Commodity Exchange Of India Ltd",
+      "allocation_percent": 2.28103965,
       "sector": "Financial"
     },
     {
       "company_name": "ICICI Bank Ltd",
-      "allocation_percent": 1.96,
+      "allocation_percent": 1.97983064,
       "sector": "Financial"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Financial",
-      "allocation_percent": 14.53
+      "allocation_percent": 15.1385
     },
     {
       "sector": "Technology",
-      "allocation_percent": 4.34
+      "allocation_percent": 4.9975
     },
     {
       "sector": "Healthcare",
-      "allocation_percent": 2.66
+      "allocation_percent": 2.5486
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 2.37
+      "allocation_percent": 2.3597
     }
   ],
   "returns": {
-    "returns_1y": 11.19,
-    "returns_3y": 21.28,
-    "returns_5y": 20.47,
+    "returns_1y": 12.38,
+    "returns_3y": 21.15,
+    "returns_5y": 20.33,
     "returns_10y": null,
     "returns_since_launch": 15.84
   },
@@ -158,7 +158,7 @@
   "_metadata": {
     "scheme_id": "nippon-india-growth",
     "source_url": "https://groww.in/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth",
-    "scrape_timestamp": "2026-08-26T02:11:46.721458Z",
+    "scrape_timestamp": "2026-08-27T10:13:16.252545Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

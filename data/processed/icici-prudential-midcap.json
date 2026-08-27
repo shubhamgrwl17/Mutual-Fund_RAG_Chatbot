@@ -11,8 +11,8 @@
   "isin": "INF109K011N7",
   "scheme_code": "120381",
   "description": "This scheme aims to generate long term capital appreciation by investing in diversified midcap stocks portfolio. It will predominantly invest in companies with market capitalization falling between the lowest and the highest market capitalisation among the constituents of Nifty Midcap 100 Index.",
-  "nav": 396.85,
-  "nav_date": "25-Aug-2026",
+  "nav": 399.22,
+  "nav_date": "26-Aug-2026",
   "aum": 7953.69326479,
   "expense_ratio": "1.11",
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
@@ -29,85 +29,89 @@
   "holdings_top10": [
     {
       "company_name": "Apar Industries Ltd",
-      "allocation_percent": 5.47552755,
+      "allocation_percent": 4.93758668,
       "sector": "Diversified"
     },
     {
+      "company_name": "Hindustan Petroleum Corporation Ltd",
+      "allocation_percent": 4.77263564,
+      "sector": "Energy & Utilities"
+    },
+    {
       "company_name": "BSE Ltd",
-      "allocation_percent": 4.98541368,
+      "allocation_percent": 4.63856334,
       "sector": "Financial"
     },
     {
       "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 4.48368442,
+      "allocation_percent": 4.33212456,
       "sector": "Financial"
     },
     {
       "company_name": "Jindal Steel & Power Ltd",
-      "allocation_percent": 3.76507507,
+      "allocation_percent": 3.86211147,
       "sector": "Materials"
     },
     {
-      "company_name": "Hindustan Petroleum Corporation Ltd",
-      "allocation_percent": 3.66200363,
-      "sector": "Energy & Utilities"
-    },
-    {
       "company_name": "APL Apollo Tubes Ltd",
-      "allocation_percent": 3.27714076,
+      "allocation_percent": 3.28827742,
       "sector": "Industrials"
     },
     {
       "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 3.21082355,
+      "allocation_percent": 3.24947658,
       "sector": "Consumer Discretionary"
     },
     {
       "company_name": "Muthoot Finance Ltd",
-      "allocation_percent": 3.14987876,
+      "allocation_percent": 3.23385993,
       "sector": "Financial"
     },
     {
-      "company_name": "Kei Industries Ltd",
-      "allocation_percent": 3.02362752,
-      "sector": "Industrials"
+      "company_name": "Prestige Estates Projects Ltd",
+      "allocation_percent": 2.88142995,
+      "sector": "Real Estate"
     },
     {
-      "company_name": "PB Fintech Ltd",
-      "allocation_percent": 2.92395032,
-      "sector": "Financial"
+      "company_name": "Jindal Stainless Ltd",
+      "allocation_percent": 2.87014588,
+      "sector": "Materials"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Financial",
-      "allocation_percent": 15.5429
-    },
-    {
-      "sector": "Industrials",
-      "allocation_percent": 6.3008
-    },
-    {
-      "sector": "Diversified",
-      "allocation_percent": 5.4755
+      "allocation_percent": 12.2045
     },
     {
       "sector": "Materials",
-      "allocation_percent": 3.7651
+      "allocation_percent": 6.7323
+    },
+    {
+      "sector": "Diversified",
+      "allocation_percent": 4.9376
     },
     {
       "sector": "Energy & Utilities",
-      "allocation_percent": 3.662
+      "allocation_percent": 4.7726
+    },
+    {
+      "sector": "Industrials",
+      "allocation_percent": 3.2883
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 3.2108
+      "allocation_percent": 3.2495
+    },
+    {
+      "sector": "Real Estate",
+      "allocation_percent": 2.8814
     }
   ],
   "returns": {
-    "returns_1y": 18.2,
-    "returns_3y": 24.43,
-    "returns_5y": 19.67,
+    "returns_1y": 20.8,
+    "returns_3y": 24.65,
+    "returns_5y": 19.87,
     "returns_10y": null,
     "returns_since_launch": 18.64
   },
@@ -153,7 +157,7 @@
   "_metadata": {
     "scheme_id": "icici-prudential-midcap",
     "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-08-26T02:11:54.369841Z",
+    "scrape_timestamp": "2026-08-27T10:13:24.003152Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
