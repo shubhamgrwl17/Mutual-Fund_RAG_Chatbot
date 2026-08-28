@@ -85,7 +85,7 @@
   "nfo_risk": "Moderately High Riskometer",
   "nfo_image_url": null,
   "meta_title": "Motilal Oswal Midcap Fund Direct Growth - Groww",
-  "meta_desc": "Motilal Oswal Midcap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 21.93. Risk is Very High",
+  "meta_desc": "Motilal Oswal Midcap Fund Direct Growth is Mid Cap Equity mutual fund with risk-reward rating of 3/10. It has track record of 12 years, with three year return of 21.95. Risk is Very High",
   "meta_robots": "index",
   "amc": "MOTILAL_OSWAL",
   "scheme_code": "127042",
@@ -152,7 +152,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 155305.63193534,
-    "launch_date": "2009-12-28T18:30:00.807Z",
+    "launch_date": "2009-12-28T18:30:00.825Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -187,9 +187,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 3.68,
-      "stat_3y": 21.93,
-      "stat_5y": 23.94,
+      "stat_1y": 3.78,
+      "stat_3y": 21.95,
+      "stat_5y": 23.87,
       "stat_all": 20.22,
       "title": "Fund Returns"
     },
@@ -213,19 +213,19 @@
   "return_stats": [
     {
       "scheme_code": "127042",
-      "return1d": -0.54,
-      "return1w": 2.1,
-      "return1m": 9.18,
-      "return3m": 14,
-      "return6m": 18.35,
+      "return1d": 0.1,
+      "return1w": 0.9,
+      "return1m": 7.84,
+      "return3m": 14.1,
+      "return6m": 19.73,
       "return9m": null,
-      "return1y": 3.68,
+      "return1y": 3.78,
       "return2y": null,
-      "return3y": 21.93,
+      "return3y": 21.95,
       "return4y": null,
-      "return5y": 23.94,
+      "return5y": 23.87,
       "return7y": null,
-      "return10y": 18.13,
+      "return10y": 18.14,
       "return_default": 20.22,
       "mean_return": 5.35,
       "sharpe_ratio": 0.7307546616,
@@ -233,7 +233,7 @@
       "standard_deviation": 20.48326403203948,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 22.1836387329,
+      "return_since_created": 22.1878476454,
       "cat_return3m": 3.790142971673846,
       "cat_return6m": -0.01429769982222222,
       "cat_return1y": 1.9589569430918827,
@@ -723,8 +723,8 @@
       "stock_search_id": "au-small-finance-bank-ltd"
     }
   ],
-  "nav": 122.602,
-  "nav_date": "26-Aug-2026",
+  "nav": 122.7222,
+  "nav_date": "27-Aug-2026",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "alternate_scheme_type": null,
@@ -793,6 +793,11 @@
           "scheme_name": "Motilal Oswal Contra Fund Direct Growth",
           "scheme_code": "154337",
           "search_id": "motilal-oswal-contra-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Quality Fund Direct Growth",
+          "scheme_code": "154668",
+          "search_id": "motilal-oswal-quality-fund-direct-growth"
         }
       ]
     },
@@ -1044,6 +1049,11 @@
           "scheme_name": "Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund Direct Growth",
           "scheme_code": "154377",
           "search_id": "motilal-oswal-bse-midcap-150-momentum-30-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Quality Fund Direct Growth",
+          "scheme_code": "154668",
+          "search_id": "motilal-oswal-quality-fund-direct-growth"
         }
       ]
     },
@@ -1120,6 +1130,11 @@
           "scheme_name": "Motilal Oswal Financial Services Fund Direct Growth",
           "scheme_code": "154142",
           "search_id": "motilal-oswal-financial-services-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Quality Fund Direct Growth",
+          "scheme_code": "154668",
+          "search_id": "motilal-oswal-quality-fund-direct-growth"
         }
       ]
     },
@@ -1201,6 +1216,11 @@
           "scheme_name": "Motilal Oswal Contra Fund Direct Growth",
           "scheme_code": "154337",
           "search_id": "motilal-oswal-contra-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Quality Fund Direct Growth",
+          "scheme_code": "154668",
+          "search_id": "motilal-oswal-quality-fund-direct-growth"
         }
       ]
     },
@@ -1487,6 +1507,11 @@
           "scheme_name": "Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund Direct Growth",
           "scheme_code": "154377",
           "search_id": "motilal-oswal-bse-midcap-150-momentum-30-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Quality Fund Direct Growth",
+          "scheme_code": "154668",
+          "search_id": "motilal-oswal-quality-fund-direct-growth"
         }
       ]
     }
@@ -1512,16 +1537,16 @@
     "return1d": null,
     "return1w": null,
     "return1m": null,
-    "return3m": 99.45240216709199,
-    "return6m": 72.04758231584911,
-    "return9m": 37.86327416728679,
-    "return1y": 22.534494948368422,
-    "return2y": 8.75764922891745,
-    "return3y": 12.882034335871495,
-    "return4y": 18.254618736640516,
-    "return5y": 20.223846324547097,
+    "return3m": 98.29645291834251,
+    "return6m": 71.7464101938616,
+    "return9m": 37.896390654426725,
+    "return1y": 22.629850186949458,
+    "return2y": 8.83499129185316,
+    "return3y": 12.92722908182578,
+    "return4y": 18.281972039194216,
+    "return5y": 20.243497841294854,
     "return7y": null,
-    "return10y": 21.485353149951358,
+    "return10y": 21.49362554932921,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -1673,6 +1698,12 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.93,
+      "as_on_date": "2026-08-26T00:00:00",
+      "frequency": "Daily",
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.93,
       "as_on_date": "2026-08-25T00:00:00",
@@ -8753,8 +8784,8 @@
       "sub_sub_category": "",
       "aum": 6792.14244992,
       "mean_return": null,
-      "return3y": 24.19,
-      "return1y": 18.55,
+      "return3y": 24.13,
+      "return1y": 18.43,
       "min_investment": 500,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8792,8 +8823,8 @@
       "sub_sub_category": "",
       "aum": 18693.4923,
       "mean_return": 8.89,
-      "return3y": 23.35,
-      "return1y": 12.19,
+      "return3y": 23.31,
+      "return1y": 12.14,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8831,8 +8862,8 @@
       "sub_sub_category": "",
       "aum": 14504.3585905,
       "mean_return": 3.13,
-      "return3y": 21.37,
-      "return1y": 12.42,
+      "return3y": 21.33,
+      "return1y": 12.36,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -8870,8 +8901,8 @@
       "sub_sub_category": "",
       "aum": 50750.80584713,
       "mean_return": 15.99,
-      "return3y": 21.15,
-      "return1y": 12.38,
+      "return3y": 21.07,
+      "return1y": 12.22,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -8909,8 +8940,8 @@
       "sub_sub_category": "",
       "aum": 105142.6943,
       "mean_return": 5.62,
-      "return3y": 19.66,
-      "return1y": 12.11,
+      "return3y": 19.57,
+      "return1y": 11.91,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
