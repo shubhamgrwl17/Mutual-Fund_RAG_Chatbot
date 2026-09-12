@@ -11,9 +11,9 @@
   "isin": "INF769K01FA9",
   "scheme_code": "147445",
   "description": "The scheme seeks to provide long-term capital appreciation from a portfolio investing predominantly in Indian equity and equity related securities of midcap companies. From time to time, the fund manager may also participate in other Indian equities and equity related securities for optimal portfolio construction.",
-  "nav": 44.189,
-  "nav_date": "10-Sep-2026",
-  "aum": 20267.6347,
+  "nav": 43.968,
+  "nav_date": "11-Sep-2026",
+  "aum": 20891.685,
   "expense_ratio": "0.94",
   "exit_load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 years.",
   "min_sip_investment": 99,
@@ -105,9 +105,9 @@
     }
   ],
   "returns": {
-    "returns_1y": 11.08,
-    "returns_3y": 15.79,
-    "returns_5y": 15.86,
+    "returns_1y": 10.24,
+    "returns_3y": 15.38,
+    "returns_5y": 15.74,
     "returns_10y": null,
     "returns_since_launch": 39.05
   },
@@ -144,7 +144,7 @@
   "_metadata": {
     "scheme_id": "mirae-asset-midcap",
     "source_url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-09-11T05:07:18.854120Z",
+    "scrape_timestamp": "2026-09-12T04:56:51.815863Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
