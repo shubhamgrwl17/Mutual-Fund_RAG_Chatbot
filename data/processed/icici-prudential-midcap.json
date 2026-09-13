@@ -29,83 +29,79 @@
   "holdings_top10": [
     {
       "company_name": "Apar Industries Ltd",
-      "allocation_percent": 4.93758668,
+      "allocation_percent": 5.76586902,
       "sector": "Diversified"
     },
     {
+      "company_name": "Multi Commodity Exchange Of India Ltd",
+      "allocation_percent": 5.29973303,
+      "sector": "Financial"
+    },
+    {
       "company_name": "Hindustan Petroleum Corporation Ltd",
-      "allocation_percent": 4.77263564,
+      "allocation_percent": 4.50026603,
       "sector": "Energy & Utilities"
     },
     {
-      "company_name": "BSE Ltd",
-      "allocation_percent": 4.63856334,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 4.33212456,
-      "sector": "Financial"
-    },
-    {
       "company_name": "Jindal Steel & Power Ltd",
-      "allocation_percent": 3.86211147,
+      "allocation_percent": 3.95556565,
       "sector": "Materials"
     },
     {
+      "company_name": "BSE Ltd",
+      "allocation_percent": 3.95185164,
+      "sector": "Financial"
+    },
+    {
       "company_name": "APL Apollo Tubes Ltd",
-      "allocation_percent": 3.28827742,
+      "allocation_percent": 3.80323381,
+      "sector": "Industrials"
+    },
+    {
+      "company_name": "PB Fintech Ltd",
+      "allocation_percent": 3.14292883,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Kei Industries Ltd",
+      "allocation_percent": 2.98566321,
       "sector": "Industrials"
     },
     {
       "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 3.24947658,
+      "allocation_percent": 2.94293475,
       "sector": "Consumer Discretionary"
     },
     {
       "company_name": "Muthoot Finance Ltd",
-      "allocation_percent": 3.23385993,
+      "allocation_percent": 2.9220025,
       "sector": "Financial"
-    },
-    {
-      "company_name": "Prestige Estates Projects Ltd",
-      "allocation_percent": 2.88142995,
-      "sector": "Real Estate"
-    },
-    {
-      "company_name": "Jindal Stainless Ltd",
-      "allocation_percent": 2.87014588,
-      "sector": "Materials"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Financial",
-      "allocation_percent": 12.2045
-    },
-    {
-      "sector": "Materials",
-      "allocation_percent": 6.7323
-    },
-    {
-      "sector": "Diversified",
-      "allocation_percent": 4.9376
-    },
-    {
-      "sector": "Energy & Utilities",
-      "allocation_percent": 4.7726
+      "allocation_percent": 15.3165
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 3.2883
+      "allocation_percent": 6.7889
+    },
+    {
+      "sector": "Diversified",
+      "allocation_percent": 5.7659
+    },
+    {
+      "sector": "Energy & Utilities",
+      "allocation_percent": 4.5003
+    },
+    {
+      "sector": "Materials",
+      "allocation_percent": 3.9556
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 3.2495
-    },
-    {
-      "sector": "Real Estate",
-      "allocation_percent": 2.8814
+      "allocation_percent": 2.9429
     }
   ],
   "returns": {
@@ -157,7 +153,7 @@
   "_metadata": {
     "scheme_id": "icici-prudential-midcap",
     "source_url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-09-12T04:56:54.619007Z",
+    "scrape_timestamp": "2026-09-13T05:18:44.582819Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

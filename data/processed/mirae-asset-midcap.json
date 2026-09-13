@@ -29,79 +29,79 @@
   "holdings_top10": [
     {
       "company_name": "Laurus Labs Ltd",
-      "allocation_percent": 4.11951479,
+      "allocation_percent": 4.03172424,
       "sector": "Healthcare"
     },
     {
+      "company_name": "Steel Authority Of India Ltd",
+      "allocation_percent": 3.54137827,
+      "sector": "Materials"
+    },
+    {
       "company_name": "Lupin Ltd",
-      "allocation_percent": 3.29395947,
+      "allocation_percent": 3.26235002,
       "sector": "Healthcare"
     },
     {
       "company_name": "Indusind Bank Ltd",
-      "allocation_percent": 3.26701744,
+      "allocation_percent": 3.18242055,
       "sector": "Financial"
     },
     {
       "company_name": "Persistent Systems Ltd",
-      "allocation_percent": 3.19994268,
+      "allocation_percent": 3.12981271,
       "sector": "Technology"
     },
     {
-      "company_name": "Steel Authority Of India Ltd",
-      "allocation_percent": 3.1642581,
-      "sector": "Materials"
-    },
-    {
       "company_name": "PB Fintech Ltd",
-      "allocation_percent": 2.99811292,
+      "allocation_percent": 3.02384117,
       "sector": "Financial"
     },
     {
-      "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 2.96390079,
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "company_name": "Hero Motocorp Ltd",
-      "allocation_percent": 2.86549506,
-      "sector": "Consumer Discretionary"
+      "company_name": "HDB FINANCIAL SERVICES LIMITED EQ",
+      "allocation_percent": 2.96988104,
+      "sector": "Financial"
     },
     {
       "company_name": "Delhivery Ltd",
-      "allocation_percent": 2.78623912,
+      "allocation_percent": 2.88162729,
       "sector": "Industrials"
     },
     {
       "company_name": "Dixon Technologies (India) Ltd",
-      "allocation_percent": 2.75127743,
+      "allocation_percent": 2.82127242,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "company_name": "Bharat Forge Ltd",
+      "allocation_percent": 2.75132269,
       "sector": "Consumer Discretionary"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Consumer Discretionary",
-      "allocation_percent": 8.5807
+      "sector": "Financial",
+      "allocation_percent": 9.1761
     },
     {
       "sector": "Healthcare",
-      "allocation_percent": 7.4135
+      "allocation_percent": 7.2941
     },
     {
-      "sector": "Financial",
-      "allocation_percent": 6.2651
-    },
-    {
-      "sector": "Technology",
-      "allocation_percent": 3.1999
+      "sector": "Consumer Discretionary",
+      "allocation_percent": 5.5726
     },
     {
       "sector": "Materials",
-      "allocation_percent": 3.1643
+      "allocation_percent": 3.5414
+    },
+    {
+      "sector": "Technology",
+      "allocation_percent": 3.1298
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 2.7862
+      "allocation_percent": 2.8816
     }
   ],
   "returns": {
@@ -144,7 +144,7 @@
   "_metadata": {
     "scheme_id": "mirae-asset-midcap",
     "source_url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-09-12T04:56:51.815863Z",
+    "scrape_timestamp": "2026-09-13T05:18:41.757111Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
