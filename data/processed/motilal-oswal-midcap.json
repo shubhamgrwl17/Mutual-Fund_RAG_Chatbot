@@ -104,9 +104,9 @@
     "returns_since_launch": 20.22
   },
   "category_returns": {
-    "category_avg_1y": 5.88,
-    "category_avg_3y": 16.12,
-    "category_avg_5y": 15.29
+    "category_avg_1y": 6.36,
+    "category_avg_3y": 15.89,
+    "category_avg_5y": 15.23
   },
   "fund_manager_details": [
     {
@@ -172,7 +172,7 @@
   "_metadata": {
     "scheme_id": "motilal-oswal-midcap",
     "source_url": "https://groww.in/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth",
-    "scrape_timestamp": "2026-09-26T05:23:10.635537Z",
+    "scrape_timestamp": "2026-09-27T05:39:37.928150Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
