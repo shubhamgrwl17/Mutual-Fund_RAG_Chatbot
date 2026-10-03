@@ -14,7 +14,7 @@
   "nav": 113.207,
   "nav_date": "01-Oct-2026",
   "aum": 42851.5937,
-  "expense_ratio": "0.93",
+  "expense_ratio": "0.91",
   "exit_load": "Exit load of 1%, if redeemed within 365 days.\r\n",
   "min_sip_investment": 500,
   "max_sip_investment": 999999999,
@@ -104,9 +104,9 @@
     "returns_since_launch": 20.22
   },
   "category_returns": {
-    "category_avg_1y": 6.36,
-    "category_avg_3y": 15.89,
-    "category_avg_5y": 15.23
+    "category_avg_1y": 3.72,
+    "category_avg_3y": 14.33,
+    "category_avg_5y": 14.5
   },
   "fund_manager_details": [
     {
@@ -172,7 +172,7 @@
   "_metadata": {
     "scheme_id": "motilal-oswal-midcap",
     "source_url": "https://groww.in/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth",
-    "scrape_timestamp": "2026-10-02T06:06:55.772776Z",
+    "scrape_timestamp": "2026-10-03T05:40:30.701888Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
