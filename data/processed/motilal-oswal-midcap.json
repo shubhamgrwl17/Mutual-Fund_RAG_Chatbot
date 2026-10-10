@@ -11,9 +11,9 @@
   "isin": "INF247L01445",
   "scheme_code": "127042",
   "description": "The scheme seeks to achieve long term capital appreciation by investing in a maximum of 30 quality mid cap companies having long-term competitive advantages and potential for growth.",
-  "nav": 113.67,
-  "nav_date": "08-Oct-2026",
-  "aum": 42851.5937,
+  "nav": 114.9478,
+  "nav_date": "09-Oct-2026",
+  "aum": 40207.5028,
   "expense_ratio": "0.91",
   "exit_load": "Exit load of 1%, if redeemed within 365 days.\r\n",
   "min_sip_investment": 500,
@@ -29,84 +29,88 @@
   "holdings_top10": [
     {
       "company_name": "One 97 Communications Ltd",
-      "allocation_percent": 9.07,
+      "allocation_percent": 8.64,
       "sector": "Industrials"
     },
     {
       "company_name": "Kalyan Jewellers India Ltd",
-      "allocation_percent": 8.13,
+      "allocation_percent": 7.98,
       "sector": "Consumer Discretionary"
     },
     {
       "company_name": "Zomato Ltd",
-      "allocation_percent": 6.46,
+      "allocation_percent": 6.72,
       "sector": "Technology"
     },
     {
       "company_name": "Coforge Ltd",
-      "allocation_percent": 5.79,
+      "allocation_percent": 5.43,
       "sector": "Technology"
     },
     {
-      "company_name": "Kei Industries Ltd",
-      "allocation_percent": 5.16,
-      "sector": "Industrials"
+      "company_name": "Repo",
+      "allocation_percent": 4.82,
+      "sector": "Unspecified"
     },
     {
       "company_name": "Aditya Birla Capital Ltd",
-      "allocation_percent": 4.87,
+      "allocation_percent": 4.64,
       "sector": "Financial"
     },
     {
       "company_name": "Persistent Systems Ltd",
-      "allocation_percent": 4.41,
+      "allocation_percent": 4.43,
       "sector": "Technology"
     },
     {
-      "company_name": "Shriram Transport Finance Company Ltd",
-      "allocation_percent": 3.66,
-      "sector": "Financial"
+      "company_name": "Sterlite Technologies Ltd",
+      "allocation_percent": 4.4,
+      "sector": "Technology"
     },
     {
-      "company_name": "Dixon Technologies (India) Ltd",
-      "allocation_percent": 3.44,
-      "sector": "Consumer Discretionary"
+      "company_name": "Kei Industries Ltd",
+      "allocation_percent": 4.27,
+      "sector": "Industrials"
     },
     {
       "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 3.43,
+      "allocation_percent": 3.74,
       "sector": "Financial"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Technology",
-      "allocation_percent": 16.66
+      "allocation_percent": 20.98
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 14.23
+      "allocation_percent": 12.91
     },
     {
       "sector": "Financial",
-      "allocation_percent": 11.96
+      "allocation_percent": 8.38
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 11.57
+      "allocation_percent": 7.98
+    },
+    {
+      "sector": "Unspecified",
+      "allocation_percent": 4.82
     }
   ],
   "returns": {
-    "returns_1y": -3.66,
-    "returns_3y": 17.3,
-    "returns_5y": 18.85,
+    "returns_1y": -3.37,
+    "returns_3y": 18.22,
+    "returns_5y": 19.1,
     "returns_10y": null,
     "returns_since_launch": 20.22
   },
   "category_returns": {
-    "category_avg_1y": 3.72,
-    "category_avg_3y": 14.33,
-    "category_avg_5y": 14.5
+    "category_avg_1y": 1.18,
+    "category_avg_3y": 14,
+    "category_avg_5y": 13.48
   },
   "fund_manager_details": [
     {
@@ -172,7 +176,7 @@
   "_metadata": {
     "scheme_id": "motilal-oswal-midcap",
     "source_url": "https://groww.in/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth",
-    "scrape_timestamp": "2026-10-09T06:36:01.770810Z",
+    "scrape_timestamp": "2026-10-10T06:19:35.257364Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
