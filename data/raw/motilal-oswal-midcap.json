@@ -169,7 +169,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 159646.76798573,
-    "launch_date": "2009-12-28T18:30:00.554Z",
+    "launch_date": "2009-12-28T18:30:00.105Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -1076,6 +1076,11 @@
           "scheme_name": "Motilal Oswal Nifty REITs & Realty Index Fund Direct Growth",
           "scheme_code": "154762",
           "search_id": "motilal-oswal-nifty-reits-realty-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Nifty Midcap150 Plus 8 13 Yr G Sec 70:30 Index Fund Direct Growth",
+          "scheme_code": "154795",
+          "search_id": "motilal-oswal-nifty-midcap150-plus-8-13-yr-g-sec-70:30-index-fund-direct-growth"
         }
       ]
     },
@@ -1539,6 +1544,11 @@
           "scheme_name": "Motilal Oswal Nifty REITs & Realty Index Fund Direct Growth",
           "scheme_code": "154762",
           "search_id": "motilal-oswal-nifty-reits-realty-index-fund-direct-growth"
+        },
+        {
+          "scheme_name": "Motilal Oswal Nifty Midcap150 Plus 8 13 Yr G Sec 70:30 Index Fund Direct Growth",
+          "scheme_code": "154795",
+          "search_id": "motilal-oswal-nifty-midcap150-plus-8-13-yr-g-sec-70:30-index-fund-direct-growth"
         }
       ]
     }
