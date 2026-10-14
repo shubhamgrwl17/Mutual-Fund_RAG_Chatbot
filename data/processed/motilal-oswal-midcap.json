@@ -11,10 +11,10 @@
   "isin": "INF247L01445",
   "scheme_code": "127042",
   "description": "The scheme seeks to achieve long term capital appreciation by investing in a maximum of 30 quality mid cap companies having long-term competitive advantages and potential for growth.",
-  "nav": 115.5924,
-  "nav_date": "12-Oct-2026",
+  "nav": 116.6107,
+  "nav_date": "13-Oct-2026",
   "aum": 40207.5028,
-  "expense_ratio": "0.91",
+  "expense_ratio": "0.9",
   "exit_load": "Exit load of 1%, if redeemed within 365 days.\r\n",
   "min_sip_investment": 500,
   "max_sip_investment": 999999999,
@@ -101,9 +101,9 @@
     }
   ],
   "returns": {
-    "returns_1y": -3.24,
-    "returns_3y": 17.38,
-    "returns_5y": 19.21,
+    "returns_1y": -1.99,
+    "returns_3y": 17.77,
+    "returns_5y": 19.29,
     "returns_10y": null,
     "returns_since_launch": 20.22
   },
@@ -176,7 +176,7 @@
   "_metadata": {
     "scheme_id": "motilal-oswal-midcap",
     "source_url": "https://groww.in/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth",
-    "scrape_timestamp": "2026-10-13T07:03:04.243044Z",
+    "scrape_timestamp": "2026-10-14T05:18:09.159494Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
