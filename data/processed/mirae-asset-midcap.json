@@ -11,8 +11,8 @@
   "isin": "INF769K01FA9",
   "scheme_code": "147445",
   "description": "The scheme seeks to provide long-term capital appreciation from a portfolio investing predominantly in Indian equity and equity related securities of midcap companies. From time to time, the fund manager may also participate in other Indian equities and equity related securities for optimal portfolio construction.",
-  "nav": 41.462,
-  "nav_date": "14-Oct-2026",
+  "nav": 41.489,
+  "nav_date": "15-Oct-2026",
   "aum": 19538.5029,
   "expense_ratio": "0.95",
   "exit_load": "Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 years.",
@@ -29,85 +29,85 @@
   "holdings_top10": [
     {
       "company_name": "Laurus Labs Ltd",
-      "allocation_percent": 4.03172424,
+      "allocation_percent": 4.31012448,
       "sector": "Healthcare"
     },
     {
       "company_name": "Steel Authority Of India Ltd",
-      "allocation_percent": 3.54137827,
+      "allocation_percent": 3.75651872,
       "sector": "Materials"
     },
     {
+      "company_name": "HDB FINANCIAL SERVICES LIMITED EQ",
+      "allocation_percent": 3.36204861,
+      "sector": "Financial"
+    },
+    {
       "company_name": "Lupin Ltd",
-      "allocation_percent": 3.26235002,
+      "allocation_percent": 3.34379817,
       "sector": "Healthcare"
     },
     {
-      "company_name": "Indusind Bank Ltd",
-      "allocation_percent": 3.18242055,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "Persistent Systems Ltd",
-      "allocation_percent": 3.12981271,
-      "sector": "Technology"
-    },
-    {
-      "company_name": "PB Fintech Ltd",
-      "allocation_percent": 3.02384117,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "HDB FINANCIAL SERVICES LIMITED EQ",
-      "allocation_percent": 2.96988104,
-      "sector": "Financial"
-    },
-    {
       "company_name": "Delhivery Ltd",
-      "allocation_percent": 2.88162729,
+      "allocation_percent": 3.0082657,
       "sector": "Industrials"
     },
     {
-      "company_name": "Dixon Technologies (India) Ltd",
-      "allocation_percent": 2.82127242,
+      "company_name": "Hero Motocorp Ltd",
+      "allocation_percent": 2.89240603,
       "sector": "Consumer Discretionary"
     },
     {
-      "company_name": "Bharat Forge Ltd",
-      "allocation_percent": 2.75132269,
+      "company_name": "Persistent Systems Ltd",
+      "allocation_percent": 2.85737906,
+      "sector": "Technology"
+    },
+    {
+      "company_name": "Indusind Bank Ltd",
+      "allocation_percent": 2.68750442,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Swiggy Ltd.",
+      "allocation_percent": 2.66849792,
+      "sector": "Technology"
+    },
+    {
+      "company_name": "Dixon Technologies (India) Ltd",
+      "allocation_percent": 2.66116652,
       "sector": "Consumer Discretionary"
     }
   ],
   "sector_allocation": [
     {
-      "sector": "Financial",
-      "allocation_percent": 9.1761
+      "sector": "Healthcare",
+      "allocation_percent": 7.6539
     },
     {
-      "sector": "Healthcare",
-      "allocation_percent": 7.2941
+      "sector": "Financial",
+      "allocation_percent": 6.0496
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 5.5726
-    },
-    {
-      "sector": "Materials",
-      "allocation_percent": 3.5414
+      "allocation_percent": 5.5536
     },
     {
       "sector": "Technology",
-      "allocation_percent": 3.1298
+      "allocation_percent": 5.5259
+    },
+    {
+      "sector": "Materials",
+      "allocation_percent": 3.7565
     },
     {
       "sector": "Industrials",
-      "allocation_percent": 2.8816
+      "allocation_percent": 3.0083
     }
   ],
   "returns": {
-    "returns_1y": 3.11,
-    "returns_3y": 13.94,
-    "returns_5y": 13.13,
+    "returns_1y": 2.38,
+    "returns_3y": 13.95,
+    "returns_5y": 13.14,
     "returns_10y": null,
     "returns_since_launch": 39.05
   },
@@ -144,7 +144,7 @@
   "_metadata": {
     "scheme_id": "mirae-asset-midcap",
     "source_url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-10-15T05:05:33.982922Z",
+    "scrape_timestamp": "2026-10-16T04:54:38.923552Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
