@@ -131,7 +131,7 @@
   "description": "The scheme aims at long term growth of capital through research based investment approach. The funds will be invested in Equity and equity related instruments ,and there will be an exposure to debt and money market instruments also.",
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
-  "aum": 50176.01,
+  "aum": 50176.0139,
   "expense_ratio": "0.79",
   "base_expense_ratio": "0.59",
   "portfolio_turnover": 74,
@@ -191,7 +191,7 @@
     "address": "30th Floor, One Lodha PlaceSenapati Bapat Marg, Lower ParelMumbai Mumbai 400013",
     "phone": "+91 022 6808 7000",
     "aum": 762868.50398966,
-    "launch_date": "1995-06-29T18:30:00.234Z",
+    "launch_date": "1995-06-29T18:30:00.831Z",
     "email": null,
     "rank": "4",
     "description": "Reliance Mutual Fund started their mutual fund on 30/06/1995 and its managing total assets of ₹2,32,169 Cr. Its ranked at 3 as per total assets at end of 30th Sep 2017.",
@@ -273,13 +273,13 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 17.49,
-      "cat_return3m": -4.43,
-      "cat_return6m": 2.18,
-      "cat_return1y": 0.83,
-      "cat_return3y": 14.23,
-      "cat_return5y": 13.21,
-      "cat_return10y": 15.73,
-      "cat_return_since_launch": 18.18,
+      "cat_return3m": -5.13,
+      "cat_return6m": -0.05,
+      "cat_return1y": 0.19,
+      "cat_return3y": 13.98,
+      "cat_return5y": 13.19,
+      "cat_return10y": 15.56,
+      "cat_return_since_launch": 18.08,
       "rank3m": 21,
       "rank6m": 30,
       "rank1yr": 15,
@@ -306,8 +306,7 @@
       "vro_return4y": 19.42,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null,
-      "aum": 50176.01
+      "vro_row_number": null
     }
   ],
   "sip_allowed": true,
@@ -2363,8 +2362,7 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null,
-    "aum": null
+    "vro_row_number": null
   },
   "simple_return": {
     "scheme_code": "118668",
@@ -2422,8 +2420,7 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null,
-    "aum": null
+    "vro_row_number": null
   },
   "lock_in": {
     "years": null,

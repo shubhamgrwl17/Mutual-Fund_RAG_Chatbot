@@ -159,7 +159,7 @@
   "description": "This scheme aims to generate long term capital appreciation by investing in diversified midcap stocks portfolio. It will predominantly invest in companies with market capitalization falling between the lowest and the highest market capitalisation among the constituents of Nifty Midcap 100 Index.",
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
-  "aum": 7960.86998347,
+  "aum": 7960.87,
   "expense_ratio": "1.1",
   "base_expense_ratio": "0.89",
   "portfolio_turnover": 75,
@@ -219,7 +219,7 @@
     "address": "One BKC ,  A Wing ,13th Floor, Bandra Kurla Complex, Mumbai 400051",
     "phone": null,
     "aum": 1111684.08342459,
-    "launch_date": "1993-10-11T18:30:00.616Z",
+    "launch_date": "1993-10-11T18:30:00.905Z",
     "email": null,
     "rank": "3",
     "description": "ICICI Prudential Mutual Fund started their mutual fund on 13/10/1993 and its managing total assets of ₹2,79,369 Cr. Its ranked at 1 as per total assets at end of 30th Sep 2017.",
@@ -270,9 +270,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 4,
+      "stat_1y": 3,
       "stat_3y": 5,
-      "stat_5y": 9,
+      "stat_5y": 7,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -301,13 +301,13 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 18.5,
-      "cat_return3m": -4.43,
-      "cat_return6m": 2.18,
-      "cat_return1y": 0.83,
-      "cat_return3y": 14.23,
-      "cat_return5y": 13.21,
-      "cat_return10y": 15.73,
-      "cat_return_since_launch": 18.18,
+      "cat_return3m": -5.13,
+      "cat_return6m": -0.05,
+      "cat_return1y": 0.19,
+      "cat_return3y": 13.98,
+      "cat_return5y": 13.19,
+      "cat_return10y": 15.56,
+      "cat_return_since_launch": 18.08,
       "rank3m": 23,
       "rank6m": 53,
       "rank1yr": 3,
@@ -334,7 +334,8 @@
       "vro_return4y": 18.39,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": 7960.87
     }
   ],
   "sip_allowed": true,
@@ -1890,7 +1891,8 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null
+    "vro_row_number": null,
+    "aum": null
   },
   "simple_return": {
     "scheme_code": "120381",
@@ -1948,7 +1950,8 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null
+    "vro_row_number": null,
+    "aum": null
   },
   "lock_in": {
     "years": null,
