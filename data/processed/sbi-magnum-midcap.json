@@ -112,9 +112,9 @@
     "returns_since_launch": 19.06
   },
   "category_returns": {
-    "category_avg_1y": -2.62,
-    "category_avg_3y": 13.39,
-    "category_avg_5y": 13.33
+    "category_avg_1y": -4.55,
+    "category_avg_3y": 13.55,
+    "category_avg_5y": 12.87
   },
   "fund_manager_details": [
     {
@@ -149,7 +149,7 @@
   "_metadata": {
     "scheme_id": "sbi-magnum-midcap",
     "source_url": "https://groww.in/mutual-funds/sbi-mid-cap-direct-plan-growth",
-    "scrape_timestamp": "2026-10-24T04:58:53.846164Z",
+    "scrape_timestamp": "2026-10-25T05:11:19.213096Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

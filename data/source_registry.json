@@ -3,42 +3,42 @@
     "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
     "scheme_name": "HDFC Mid-Cap Opportunities Fund – Direct Growth",
     "amc": "HDFC AMC",
-    "last_scraped": "2026-10-24T04:58:39.691808Z",
+    "last_scraped": "2026-10-25T05:11:04.078420Z",
     "status": "success"
   },
   "nippon-india-growth": {
     "url": "https://groww.in/mutual-funds/nippon-india-growth-mid-cap-fund-direct-growth",
     "scheme_name": "Nippon India Growth Fund – Direct Growth",
     "amc": "Nippon India AMC",
-    "last_scraped": "2026-10-24T04:58:42.111596Z",
+    "last_scraped": "2026-10-25T05:11:06.801320Z",
     "status": "success"
   },
   "motilal-oswal-midcap": {
     "url": "https://groww.in/mutual-funds/motilal-oswal-most-focused-midcap-30-fund-direct-growth",
     "scheme_name": "Motilal Oswal Midcap Fund – Direct Growth",
     "amc": "Motilal Oswal AMC",
-    "last_scraped": "2026-10-24T04:58:45.509291Z",
+    "last_scraped": "2026-10-25T05:11:09.500011Z",
     "status": "success"
   },
   "mirae-asset-midcap": {
     "url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
     "scheme_name": "Mirae Asset Midcap Fund – Direct Growth",
     "amc": "Mirae Asset AMC",
-    "last_scraped": "2026-10-24T04:58:47.992423Z",
+    "last_scraped": "2026-10-25T05:11:12.961134Z",
     "status": "success"
   },
   "icici-prudential-midcap": {
     "url": "https://groww.in/mutual-funds/icici-prudential-midcap-fund-direct-growth",
     "scheme_name": "ICICI Prudential Midcap Fund – Direct Growth",
     "amc": "ICICI Prudential AMC",
-    "last_scraped": "2026-10-24T04:58:51.356242Z",
+    "last_scraped": "2026-10-25T05:11:15.896990Z",
     "status": "success"
   },
   "sbi-magnum-midcap": {
     "url": "https://groww.in/mutual-funds/sbi-mid-cap-direct-plan-growth",
     "scheme_name": "SBI Magnum Midcap Fund – Direct Growth",
     "amc": "SBI MF",
-    "last_scraped": "2026-10-24T04:58:53.846164Z",
+    "last_scraped": "2026-10-25T05:11:19.213096Z",
     "status": "success"
   }
 }
