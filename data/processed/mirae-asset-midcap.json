@@ -112,9 +112,9 @@
     "returns_since_launch": 39.05
   },
   "category_returns": {
-    "category_avg_1y": 3.54,
-    "category_avg_3y": 15.5,
-    "category_avg_5y": 14.37
+    "category_avg_1y": 3.82,
+    "category_avg_3y": 15.27,
+    "category_avg_5y": 13.9
   },
   "fund_manager_details": [
     {
@@ -144,7 +144,7 @@
   "_metadata": {
     "scheme_id": "mirae-asset-midcap",
     "source_url": "https://groww.in/mutual-funds/mirae-asset-midcap-fund-direct-growth",
-    "scrape_timestamp": "2026-11-10T07:41:57.259461Z",
+    "scrape_timestamp": "2026-11-11T07:00:59.704418Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

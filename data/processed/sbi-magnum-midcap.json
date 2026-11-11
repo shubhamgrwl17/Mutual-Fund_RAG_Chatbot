@@ -13,7 +13,7 @@
   "description": "The scheme aims to provide investors with opportunities for long term growth in capital along with the liquidity of an open-ended scheme by investing predominantly in a well-diversified basket of equity stocks of Midcap companies.",
   "nav": 262.5091,
   "nav_date": "09-Nov-2026",
-  "aum": 23282.2,
+  "aum": 22276.81,
   "expense_ratio": "1.01",
   "exit_load": "Exit load of 0.25% if redeemed within 30 days and 0.10% if redeemed after 30 days but on or before 90 days.",
   "min_sip_investment": 500,
@@ -29,79 +29,79 @@
   "holdings_top10": [
     {
       "company_name": "Torrent Power Ltd",
-      "allocation_percent": 3.47620657,
+      "allocation_percent": 3.42232506,
       "sector": "Energy & Utilities"
     },
     {
       "company_name": "Multi Commodity Exchange Of India Ltd",
-      "allocation_percent": 3.11863948,
+      "allocation_percent": 3.14917559,
       "sector": "Financial"
     },
     {
-      "company_name": "Supreme Industries Ltd",
-      "allocation_percent": 2.96449599,
-      "sector": "Materials"
-    },
-    {
-      "company_name": "Crisil Ltd",
-      "allocation_percent": 2.86751205,
-      "sector": "Industrials"
-    },
-    {
       "company_name": "SRF Ltd",
-      "allocation_percent": 2.86731877,
+      "allocation_percent": 3.14519836,
       "sector": "Materials"
+    },
+    {
+      "company_name": "Supreme Industries Ltd",
+      "allocation_percent": 2.96959651,
+      "sector": "Materials"
+    },
+    {
+      "company_name": "Repo",
+      "allocation_percent": 2.84616054,
+      "sector": "Unspecified"
     },
     {
       "company_name": "ICICI Lombard General Insurance Company Ltd",
-      "allocation_percent": 2.73168298,
+      "allocation_percent": 2.83844894,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "FSN E-Commerce Ventures Ltd",
+      "allocation_percent": 2.82280038,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "company_name": "The Federal Bank Ltd",
+      "allocation_percent": 2.74482693,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Sundaram Finance Ltd",
+      "allocation_percent": 2.65365591,
       "sector": "Financial"
     },
     {
       "company_name": "Bharat Heavy Electricals Ltd",
-      "allocation_percent": 2.6769373,
+      "allocation_percent": 2.60988843,
       "sector": "Industrials"
-    },
-    {
-      "company_name": "Sundaram Finance Ltd",
-      "allocation_percent": 2.60572497,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "Biocon Ltd",
-      "allocation_percent": 2.4809318,
-      "sector": "Healthcare"
-    },
-    {
-      "company_name": "FSN E-Commerce Ventures Ltd",
-      "allocation_percent": 2.4739926,
-      "sector": "Consumer Discretionary"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Financial",
-      "allocation_percent": 8.456
+      "allocation_percent": 11.3861
     },
     {
       "sector": "Materials",
-      "allocation_percent": 5.8318
-    },
-    {
-      "sector": "Industrials",
-      "allocation_percent": 5.5444
+      "allocation_percent": 6.1148
     },
     {
       "sector": "Energy & Utilities",
-      "allocation_percent": 3.4762
+      "allocation_percent": 3.4223
     },
     {
-      "sector": "Healthcare",
-      "allocation_percent": 2.4809
+      "sector": "Unspecified",
+      "allocation_percent": 2.8462
     },
     {
       "sector": "Consumer Discretionary",
-      "allocation_percent": 2.474
+      "allocation_percent": 2.8228
+    },
+    {
+      "sector": "Industrials",
+      "allocation_percent": 2.6099
     }
   ],
   "returns": {
@@ -112,9 +112,9 @@
     "returns_since_launch": 19.06
   },
   "category_returns": {
-    "category_avg_1y": 3.54,
-    "category_avg_3y": 15.5,
-    "category_avg_5y": 14.37
+    "category_avg_1y": 3.82,
+    "category_avg_3y": 15.27,
+    "category_avg_5y": 13.9
   },
   "fund_manager_details": [
     {
@@ -149,7 +149,7 @@
   "_metadata": {
     "scheme_id": "sbi-magnum-midcap",
     "source_url": "https://groww.in/mutual-funds/sbi-mid-cap-direct-plan-growth",
-    "scrape_timestamp": "2026-11-10T07:42:04.662751Z",
+    "scrape_timestamp": "2026-11-11T07:01:05.383132Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }

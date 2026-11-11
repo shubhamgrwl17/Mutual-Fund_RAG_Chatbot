@@ -109,7 +109,7 @@
   "description": "The scheme seeks to achieve long term capital appreciation by investing in a maximum of 30 quality mid cap companies having long-term competitive advantages and potential for growth.",
   "benchmark": "NIFTY Midcap 150 TRI",
   "benchmark_name": "NIFTY Midcap 150 Total Return Index",
-  "aum": 40207.5,
+  "aum": 39628.56,
   "expense_ratio": "0.91",
   "base_expense_ratio": "0.66",
   "portfolio_turnover": 35,
@@ -169,7 +169,7 @@
     "address": "Motilal Oswal Towers - 10th Floor,Rahimtullah Sayani Road,Opposite Parel ST Depot, Prabhadevi, Mumbai 400025",
     "phone": "022-39804238 / 1800-200-6626",
     "aum": 159646.76798573,
-    "launch_date": "2009-12-28T18:30:00.990Z",
+    "launch_date": "2009-12-28T18:30:00.741Z",
     "email": null,
     "rank": "19",
     "description": "Motilal Oswal Mutual Fund started their mutual fund on 29/12/2009 and its managing total assets of ₹12,967 Cr. Its ranked at 19 as per total assets at end of 30th Sep 2017.",
@@ -221,7 +221,7 @@
     {
       "type": "RANK_WITHIN_CATEGORY",
       "stat_1y": 45,
-      "stat_3y": 7,
+      "stat_3y": 8,
       "stat_5y": 1,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -251,13 +251,13 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 21.51,
-      "cat_return3m": -3.56,
-      "cat_return6m": 0.95,
-      "cat_return1y": 3.54,
-      "cat_return3y": 15.5,
-      "cat_return5y": 14.37,
-      "cat_return10y": 16.35,
-      "cat_return_since_launch": 18.3,
+      "cat_return3m": -3.16,
+      "cat_return6m": 0.56,
+      "cat_return1y": 3.82,
+      "cat_return3y": 15.27,
+      "cat_return5y": 13.9,
+      "cat_return10y": 16.5,
+      "cat_return_since_launch": 18.34,
       "rank3m": 1,
       "rank6m": 1,
       "rank1yr": 45,
@@ -285,7 +285,7 @@
       "vro_return_date": null,
       "vro_modified_ts": null,
       "vro_row_number": null,
-      "aum": 40207.5
+      "aum": 39628.56
     }
   ],
   "sip_allowed": true,
@@ -1753,6 +1753,27 @@
     }
   ],
   "historic_fund_expense": [
+    {
+      "expense_ratio": 0.91,
+      "base_expense_ratio": 0.66,
+      "as_on_date": "2026-11-09T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.91,
+      "base_expense_ratio": 0.66,
+      "as_on_date": "2026-11-08T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
+    {
+      "expense_ratio": 0.91,
+      "base_expense_ratio": 0.66,
+      "as_on_date": "2026-11-07T00:00:00",
+      "frequency": null,
+      "turn_over_ratio": null
+    },
     {
       "expense_ratio": 0.91,
       "base_expense_ratio": 0.66,
