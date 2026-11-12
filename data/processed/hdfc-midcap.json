@@ -11,9 +11,9 @@
   "isin": "INF179K01XQ0",
   "scheme_code": "118989",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.",
-  "nav": 227.102,
-  "nav_date": "09-Nov-2026",
-  "aum": 101856.06,
+  "nav": 229.552,
+  "nav_date": "11-Nov-2026",
+  "aum": 100687.07,
   "expense_ratio": "0.74",
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "min_sip_investment": 100,
@@ -29,81 +29,85 @@
   "holdings_top10": [
     {
       "company_name": "Repo",
-      "allocation_percent": 8.37,
+      "allocation_percent": 7.02,
       "sector": "Unspecified"
     },
     {
       "company_name": "The Federal Bank Ltd",
-      "allocation_percent": 3.98,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "AU Small Finance Bank Ltd",
-      "allocation_percent": 3.94,
-      "sector": "Financial"
-    },
-    {
-      "company_name": "Max Financial Services Ltd",
-      "allocation_percent": 3.52,
+      "allocation_percent": 4.31,
       "sector": "Financial"
     },
     {
       "company_name": "Ipca Laboratories Ltd",
-      "allocation_percent": 3.43,
+      "allocation_percent": 3.47,
       "sector": "Healthcare"
     },
     {
-      "company_name": "Glenmark Pharmaceuticals Ltd",
-      "allocation_percent": 3.07,
-      "sector": "Healthcare"
-    },
-    {
-      "company_name": "Balkrishna Industries Ltd",
-      "allocation_percent": 2.98,
-      "sector": "Consumer Discretionary"
+      "company_name": "AU Small Finance Bank Ltd",
+      "allocation_percent": 3.47,
+      "sector": "Financial"
     },
     {
       "company_name": "Indian Bank",
-      "allocation_percent": 2.92,
+      "allocation_percent": 3.17,
       "sector": "Financial"
     },
     {
       "company_name": "Coforge Ltd",
-      "allocation_percent": 2.68,
+      "allocation_percent": 3.17,
       "sector": "Technology"
     },
     {
-      "company_name": "Fortis Healthcare Ltd",
-      "allocation_percent": 2.4,
+      "company_name": "Max Financial Services Ltd",
+      "allocation_percent": 3.11,
+      "sector": "Financial"
+    },
+    {
+      "company_name": "Glenmark Pharmaceuticals Ltd",
+      "allocation_percent": 3.06,
       "sector": "Healthcare"
+    },
+    {
+      "company_name": "Balkrishna Industries Ltd",
+      "allocation_percent": 2.95,
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "company_name": "Marico Ltd",
+      "allocation_percent": 2.54,
+      "sector": "Consumer Staples"
     }
   ],
   "sector_allocation": [
     {
       "sector": "Financial",
-      "allocation_percent": 14.36
-    },
-    {
-      "sector": "Healthcare",
-      "allocation_percent": 8.9
+      "allocation_percent": 14.06
     },
     {
       "sector": "Unspecified",
-      "allocation_percent": 8.37
+      "allocation_percent": 7.02
     },
     {
-      "sector": "Consumer Discretionary",
-      "allocation_percent": 2.98
+      "sector": "Healthcare",
+      "allocation_percent": 6.53
     },
     {
       "sector": "Technology",
-      "allocation_percent": 2.68
+      "allocation_percent": 3.17
+    },
+    {
+      "sector": "Consumer Discretionary",
+      "allocation_percent": 2.95
+    },
+    {
+      "sector": "Consumer Staples",
+      "allocation_percent": 2.54
     }
   ],
   "returns": {
-    "returns_1y": 2.48,
-    "returns_3y": 16.04,
-    "returns_5y": 17.25,
+    "returns_1y": 3.12,
+    "returns_3y": 16.27,
+    "returns_5y": 17.65,
     "returns_10y": null,
     "returns_since_launch": 19.3
   },
@@ -141,7 +145,7 @@
   "_metadata": {
     "scheme_id": "hdfc-midcap",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-    "scrape_timestamp": "2026-11-11T07:00:51.434352Z",
+    "scrape_timestamp": "2026-11-12T07:37:55.899721Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
