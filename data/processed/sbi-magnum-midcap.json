@@ -1,5 +1,5 @@
 {
-  "fund_name": "SBI Mid Cap Direct Plan-Growth",
+  "fund_name": "SBI Mid Cap Fund",
   "scheme_name": "SBI Mid Cap Direct Plan Growth",
   "fund_house": "SBI Mutual Fund",
   "fund_manager": "Sohini Andani",
@@ -149,7 +149,7 @@
   "_metadata": {
     "scheme_id": "sbi-magnum-midcap",
     "source_url": "https://groww.in/mutual-funds/sbi-mid-cap-direct-plan-growth",
-    "scrape_timestamp": "2026-11-15T07:04:42.863119Z",
+    "scrape_timestamp": "2026-11-16T07:11:47.315678Z",
     "data_source": "__NEXT_DATA__",
     "extractor_version": "1.0.0"
   }
